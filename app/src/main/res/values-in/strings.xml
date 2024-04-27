@@ -1,0 +1,1867 @@
+<resources>
+    <string name="app_name">JEJAKKAKI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info">INFORMASI</string>
+    <string name="tumbuhan">TUMBUHAN</string>
+    <string name="keanekaragaman_hayati">BIODIVERSITAS</string>
+    <string name="hewan">HEWAN \n&amp; \nTUMBUHAN</string>
+    <string name="aktifitas">AKTIVITAS</string>
+    <string name="rute">RUTE</string>
+    <string name="taman_nasional">TAMAN NASIONAL</string>
+    <string name="lowcase_taman_nasional">Taman Nasional</string>
+    <string name="detail">Ingin berpetualang sambil menunggangi gajah sumatera? Ayo melangkah
+         out track kami,Ekowisata Tangkahan yang terletak di, Batang Serangan Langkat, Utara
+         Sumatra. Dikenal sebagai surga tersembunyi di Sumatera Utara, Tangkahan adalah bagian dari Gunung
+         Taman Nasional Leuser.</string>
+    <string name="taman_info1">Sambangilah kawasan ekowisata Tangkahan, Batang Serangan, Langkat,
+        Sumatera Utara. Dikenal sebagai surga terpendam di Sumatera Utara, Tangkahan berada di
+        dalam Taman Nasional Gunung Leuser Selain jelajah hutan, Gajah jinak bersama mahout
+        (pelatih Gajah) secara teratur berpatroli di dalam kawasan taman nasional. Para pengunjung
+        dapat berpatroli bersama Gajah itu, sembari menyusuri Tangkahan sampai ke Bukit Lawang.
+    </string>
+    <string name="taman_info2">
+        Nama kawasan konservasi ini mencuplik sepokok sungai Batang Gadis yang membelah kawasan.
+        Taman Nasional menjadi tempat mengungsi satwa liar dari wilayah sekitar yang kehilangan
+        habitat karena pembukaan lahan dan kebakaran hutan. Kawasan yang diselimuti hutan hujan
+        tropika ini membentang di pegunungan Bukit Barisan dengan ketinggian antara 300 mdpl
+        hingga 2.145 mdpl. Perbukitan memuncak di pucuk tertinggi Gunung Sorik Merapi.
+    </string>
+    <string name="taman_info3">
+        Pada 2004, kawasan ini dijadikan taman nasional dengan areal 38 ribu hektare, yang lalu
+        diperluas pada 2009. Kini wilayah taman menjadi 83 ribu hektare. Status kawasan konservasi
+        memang tak terelakkan, mengingat Tesso Nilo bagaikan zamrud khatulistiwa dengan flora-fauna
+        hutan hujan tropis dataran rendah Sumatera.
+    </string>
+    <string name="taman_info4">
+        Taman nasional yang menyandang gelar Cagar Biosfer ini berada di Pulau Mentawai, Sumatera
+        Barat, sekitar 155 km dari lepas pantai kota Padang. Enam puluh persen kawasannya
+        diselimuti hutan primer Dipterocarpaceae, hutan primer campuran, rawa, hutan pantai, dan
+        hutan mangrove. Hutannya masih cukup perawan, dengan pohon-pohon besar yang menjulang
+        60 meter.
+    </string>
+    <string name="taman_info5">
+        Berdiri tegak di Taman Nasional Kerinci Seblat, puncak Gunung Kerinci kerap berselimut
+        kabut tebal. Kendati masih aktif dan berselimut kisah-kisah misteri, Kerinci memikat
+        para pendaki untuk menggapai puncaknya. Pada puncak gunung menghampar ekosistem sub-alpin,
+        dengan daratan berpasir dan bebatuan.
+    </string>
+    <string name="taman_info6">
+        Membentang di tiga kabupaten: Sarolangun, Bungo Tebo dan Batanghari di Provinsi Jambi,
+        Taman Nasional Bukit Duabelas menjadi suaka bagi suku Anak Dalam, lazim disebut Orang Rimba.
+    </string>
+    <string name="taman_info7">
+        Bukit Tigapuluh menghampar di kawasan perbukitan curam di tengah-tengah dataran rendah
+        Sumatera. Geografi kawasan ini memang terpisah dari rangkaian pegunungan Bukit Barisan
+        yang membentang di sepanjang sisi barat Sumatera. Kala menjelajahi kawasan ini, tubuh akan
+        diselimuti kelembaban tropis yang memeras keringat. Empat ekosistem membentuk bentang alam
+        Bukit Tigapuluh: hutan alam perawan,hutan alam bekas tebangan, semak belukar dan kebun
+        karet dan ladang.
+    </string>
+    <string name="taman_info89">
+        Taman Nasional Berbak, kawasan konservasi lahan basah terluas di Asia Tenggara, menyimpan
+        karbon terbesar di dunia.Di sisi lain, Taman Nasional Sembilang di Pulau Sumatera adalah
+        tempat singgah ribuan burung migran Asia Timur dan Australia, termasuk hutan rawa gambut
+        dan hutan ripariandi.
+    </string>
+    <string name="taman_info10">
+        Terletak di ujung selatan rangkaian pegunungan Bukit Barisan, kawasan konservasi ini
+        menjadi rumah bagi spesies mamalia besar Sumatera. Di rimba raya taman nasional hidup
+        Harimau sumatera (Panthera tigris sumatrensis), Gajah sumatera (Elephas maximus sumatranus)
+        dan Badak sumatera (Dicerorhinus sumatrensis).
+    </string>
+    <string name="taman_info11">
+        Taman Nasional Way Kambas semakin dikenal dunia pada tahun 2012 setelah kelahiran Andatu.
+        Anak Badak Sumatera (Dicerorhinus sumatraensis),ini merupakan hasil penangkaran semi
+        in-situ Suaka Rhino Sumatera Way Kambas. Artinya: Anugerah dari Tuhan sekaligus singkatan
+        dari Andalas dan Ratu, si orang tua.
+    </string>
+    <string name="taman_info12">
+        Gunung Palung merupakan satu-satunya kawasan hutan hujan tropika Dipterocarpus yang
+        terbaik dan terluas di Kalimantan. Kawasan berselimut hutan perawan merambati rangkaian
+        gunung-gemunung, yang juga berperan sebagai penyedia sumber air bagi masyarakat sekitar.
+        Rupa bumi Gunung Palung berupa dataran rendah, yang berujuk di dua puncak gunung di
+        tengah kawasan.
+    </string>
+    <string name="taman_info13">
+        Taman Nasional Bentarum, terletak di Kalimantan Barat, merupakan kawasan konservasi
+        terluas di wilayah tersebut. Dikenal dengan dua wajahnya yang berbeda selama musim
+        penghujan dan kemarau, taman ini mencakup Danau Sentarum dan Betung Kerihun. Kawasan
+        ini menawarkan beragam ekosistem, seperti hutan dataran rendah, hutan rawa, hutan
+        sekunder tua, dan hutan Dipterocarpus. Taman ini juga menjadi rumah bagi 75 persen
+        tumbuhan endemik Kalimantan, menjadikannya jantung penting bagi keanekaragaman
+        hayati di Kalimantan.
+    </string>
+    <string name="taman_info14">
+        Taman Nasional Bukit Baka Bukit Raya barangkali terdengar sedikit unik. Taman nasional
+        ini memang gabungan dua cagar alam dari dua provinsi, yaitu Cagar Alam Bukit Baka di
+        Kalimantan Barat, dan Cagar Alam Bukit Raya di Kalimantan Tengah. Keanekaragaman hayati
+        Taman Nasional Bukit Baka – Bukit Raya juga berlimpah: 817 jenis tumbuhan dari 139 famili.
+    </string>
+    <string name="taman_info16">
+        Pusat rehabilitasi Orangutan kalimantan (Pongo pygmaeus) di Camp Leaky menjadi daya
+        tarik utama Taman Nasional Tanjung Puting, Pangkalanbun, Kotawaringin Barat, Kalimantan
+        Tengah. Di pusat penelitian yang dibangun pada 1970-an ini, wisatawan dapat menikmati
+        saat pemberian makan kera besar Asia tersebut.
+    </string>
+    <string name="taman_info17">
+        Inilah perwakilan ekosistem hutan rawa gambut Kalimantan Tengah yang mendukung tiga
+        daerah aliran sungai: Sebangau, Kahayan, dan Katingan. Taman Nasional Sebangau menjaga
+        dan merawat aliran sungai utama itu, dan menghembuskan peradaban bagi manusia dan
+        hidupan liar. Komunitas Dayak menggantungkan mobilitas transportasinya pada sungai-sungai
+        di Taman Nasional Sebangau. Dengan sampan sebagai sarana transportasi lokal, masyarakat
+        bergerak dari kampung ke kampung.
+    </string>
+    <string name="taman_info18">
+        Bersama Taman Nasional Betung Kerihun, Kayan Mentarang mengemban tanggung jawab sebagai
+        garda depan wilayah Indonesia. Berada di tapal batas Kalimantan, Kayan Mentarang
+        bersinggungan dengan Malaysia di dua titik: Sarawak di sebelah barat, dan Sabah di
+        sebelah utara. Kawasan konservasi ini menjadi saksi peradaban manusia purba. Peradaban
+        purba ditengarai dari jejak-jejak kuburan dan piranti zaman batu di sejumlah situs
+        arkeologi.
+    </string>
+    <string name="taman_info19">
+        Sangkima dan Camp Kakap adalah dua etalase jelajah alam di Taman Nasional Kutai yang
+        telah dikenal para wisatawan. Sangkima mengajak wisatawan menembus hutan hujan dataran
+        rendah Kalimantan yang mudah dijangkau di Kabupaten Kutai Timur. Di hutan Sangkima, yang
+        berada di tepi jalan raya Bontang – Sangatta, wisatawan dapat berjumpa dengan bangsa
+        primata: Orangutan (Pongo pygmaeus), Beruk (Macaca nemestrina), Monyet ekor panjang
+        (Macaca fascicularis).
+    </string>
+    <string name="taman_info20">
+        Pahatan alam menggores pegunungan karst di Taman Nasional Bantimurung Bulusaraung yang
+        berada di Kabupaten Maros dan Kabupaten Pangkajene Kepulauan (Pangkep), Sulawesi Selatan.
+        Pantaslah kawasan ini kerap disebut himpunan menara karst yang menjulang tinggi dengan
+        geligir-geligir curam. Karst Maros dipandang yang terluas ke dua di dunia—setelah karst
+        Cina bagian selatan.
+    </string>
+    <string name="taman_info21">
+        Puluhan taka, bungin, dan pulau-pulau membentuk bentang alam Taka Bonerate. Untaian pulau
+        kecil dan laguna Taka Bonerate berasal dari endapan pasir, pecahan terumbu karang, dan
+        kerang, yang membentuk tanah-tanah muda. Arti Taka Bonerate sendiri adalah hamparan karang
+        di atas pasir. Kawasan yang dulu dikenal sebagai atol harimau ini menyimpan terumbu karang
+        penghalang, terumbu karang tepi (fringing reef) dan terumbu karang cincin (atoll).
+    </string>
+    <string name="taman_info22">
+        Terbentang di ujung tenggara Sulawesi, Rawa Aopa Watumohai memikul tanggung jawab sebagai
+        penjaga ekosistem lahan basah Wallacea. Taman nasional seluas 105.194 hektare ini bagaikan
+        tandon air raksasa bagi Sulawesi. Sebagai penyangga kehidupan, Rawa Aopa menyandang status
+        sebagai salah satu situs Ramsar dunia.
+    </string>
+    <string name="taman_info23">
+        Membentang di jantung Segitiga Termbu Karang Dunia, Wakatobi bagaikan miniatur Nusantara.
+        Dalam tatapan mentari yang cemerlang, Taman Nasional Wakatobi, Sulawesi Tenggara, mengajak
+        pelancong berlabuh dari satu dermaga ke dermaga yang lain. Nama Wakatobi diambil dari
+        akronim pulau-pulau besar: Wangi-wangi, Kaledupa, Tomia, dan Binongko.
+    </string>
+    <string name="taman_info24">
+        Pesona keanekaragaman hayati khas Wallacea melebur bersama kebudayaan nenek moyang
+        Lembah Besoa. Peninggalan batu-batu kuna menjadi keunikan bagi Lore Lindu, sebagai
+        satu-satunya taman nasional yang menyimpan kekayaan situs megalitikum. Lore Lindu juga
+        dianugerahi bentangan alam yang cantik. Kawasan sekitar 217 ribu hektare ini memiliki
+        ketinggian yang bervariasi: mulai dari 300 mdpl sampai titik tertinggi pada 2.610 mdpl
+        di Gunung Tokosa.
+    </string>
+    <string name="taman_info25">
+        Taman nasional dengan alam kepulauan ini menyimpan keanekaragaman hayati perairan.
+        Beberapa spesies endemik ditemukan di taman nasional yang terletak di Sulawesi Tengah
+        ini. Tersembunyi di Teluk Tomini, Taman Nasional Kepulauan Togean merupakan surga
+        pulau-pulau kecil yang dikelilingi gugusan terumbu karang. Togean tercakup dalam
+        Segitiga Karang Dunia atau Coral Triangle, sehingga taman nasional ini penting untuk
+        dilindungi.
+    </string>
+    <string name="taman_info26">
+        Sulawesi Utara tidak hanya mempunyai Taman Nasional Bunaken. Tiga jam dari Kota Manado,
+        tepatnya di Kotamobagu, juga terdapat kawasan konservasi: Taman Nasional Bogani Nani
+        Wartabone. Taman nasional ini mengayomi beberapa satwa liar Sulawesi yang hampir punah,
+        seperti burung Maleo (Macrocephalon maleo) dan Anoa dataran rendah (Bubalus depressicornis).
+    </string>
+    <string name="taman_info27">
+        Salah satu destinasi wisata bahari favorit di negeri ini terdapat di perairan Bunaken.
+        Terletak di Manado, Sulawesi Utara, Taman Nasional Bunaken terdiri dari lima pulau besar:
+        Bunaken, Manado Tua, Mantehage, Siladen dan Nain. Pulau Bunaken mudah dijangkau dari kota
+        Manado, sekitar 45 menit dengan perahu motor.
+    </string>
+    <string name="taman_info28">
+        Taman Nasional di tepi barat Jawa ini menantang Anda untuk melihat langsung Badak Jawa
+        (Rhinoceros sondaicus). Tantangan unik Ujung Kulon adalah menyaksikan satwa bercula satu
+        itu di atas ranggon atau panggung dari bambu setinggi 5 – 7 meter. Pengamatan Badak Jawa
+        dari ranggon ini baru bisa dilakukan di wilayah Cikeusik dan Citadahan.
+    </string>
+    <string name="taman_info29">
+        Oase di tengah padang pasir. Ini barangkali metafora yang tepat bagi Taman Nasional
+        Kepulauan Seribu. Alam kepulauan yang berpasir putih, dengan alam bawah laut menawarkan
+        sekeping surga bagi para pelancong yang berkunjung ke Jakarta. Berada di perairan utara
+        ibukota negara, Kepulauan Seribu pantas menjadi tempat tetirah saat akhir pekan.
+        Keindahan bawah lautnya menjadi objek yang memikat untuk dinikmati para penyelam.
+    </string>
+    <string name="taman_info30">
+        Taman nasional ini menegaskan diri sebagai hutan hujan pegunungan tropis yang tersisa di
+        Pulau Jawa. Bentang alam Gunung Halimun Salak ditumbuhi hutan alam Jawa yang bergelimang
+        plasma nutfah. Hutan yang lebat dihuni primata langka: Owa Jawa (Hylobates moloch) dan
+        Surili (Presbytis comata). Taman nasional ini juga menjadi habitat satwa langka dan
+        dilindungi yaitu Elang Jawa (Nisaetus bartelsi) dan Macan Jawa (Panthera pardus melas).
+    </string>
+    <string name="taman_info31">
+        Siapa tak kenal Gunung Gede Pangrango? Kemudahan aksesnya dari Jakarta, Bogor dan Sukabumi
+        membuat taman nasional ini tersohor. Ribuan pendaki, tua-muda, lelaki-perempuan, telah
+        menjejakkan kakinya di tanah terakhir hutan pegunungan Jawa bagian Barat ini. Bagi
+        kebanyakan pengunjung, tak mengejutkan, bertandang ke Taman Nasional Gunung Gede Pangrango
+        merupakan perjalanan penuh romansa.
+    </string>
+    <string name="taman_info32">
+        Gunung Ciremai memiliki rupa bumi nan cantik: bergelombang, berbukit, dan bergunung kerucut
+        yang menjulang 3.078 mdpl. Kawasan ini berlatar teras-teras persawahan, berhawa sejuk,
+        dengan sungai-sungai jernih. Dengan kawasan seluas 15 ribu hektare, taman nasional ini
+        menjadi daerah tangkapan air bagi kehidupan di sekitarnya. Gunung Ciremai menjadi hulu 43
+        batang sungai, serta menghidupkan 156 titik mata air, yang 147 di antaranya mengalirkan
+        air sepanjang tahun dengan kualitas air minum.
+    </string>
+    <string name="taman_info33">
+        Perairan Kepulauan Tropis Jawa Di lepas pantai Jawa Tengah, terumbu karang Laut Jawa
+        tersimpan damai di Kepulauan Karimunjawa. Selain Kepulauan Seribu, taman nasional ini bisa
+        menjadi pilihan bagi para penyelam untuk surga Laut Jawa. Jadi, palingkan sejenak wajah ke
+        kawasan ini. Keindahan terumbu karang dapat dinikmati dengan bersnorkeling dan menyelam.
+        Para penyelam dapat menjelajahi taman bawah laut sampai 20 meter di perairan Pulau
+        Menjangan Kecil, Cemara Besar dan Pulau Tengah.
+    </string>
+    <string name="taman_info34">
+        Sembilan kawah hasil amuk Gunung Merbabu menjadi fenomena geologi di Jawa bagian tengah.
+        Taman Nasional Gunung Merbabu memiliki dua puncak gunung yang memendam proses geologi:
+        material lepas dan lelehan lava. Gunung Merbabu sangat cocok bagi para petualang yang
+        ingin mendaki sampai ke puncak gunung, sembari meneliti proses geologis ratusan tahun lalu.
+    </string>
+    <string name="taman_info35">
+        Menjulang megah di kaki langit utara, puncak Merapi menjadi penanda bentang alam dan budaya
+        Yogyakarta. Tiang bumi yang tersohor sangat aktif di Indonesia ini salah satu dari 16
+        gunung api teraktif di dunia. Pesonanya telah memikat setiap jiwa pendaki dan penggemar
+        alam bebas. Setiap kali menggeliat, Merapi selalu menarik perhatian para ahli vulkanologi
+        dan geologi dari penjuru dunia.
+    </string>
+    <string name="taman_info36">
+        Lazimnya, mengakrabi kawah gunung dari dekat mesti menyusuri setapak terjal dengan segala
+        rintangan alam.Namun, tanpa melalui perjuangan itu, wisatawan dapat mencapai bibir kawah
+        Bromo dengan mudah. Antara pintu gerbang Taman Nasional Bromo Tengger Semeru dengan kawah
+        Bromo hanya dipisahkan hamparan lautan pasir nan luas. Berjalan kaki, menumpang jeep atau
+        menunggang kuda adalah beberapa cara mencapai punggung kawahBromo yang masih aktif.
+    </string>
+    <string name="taman_info37">
+        Bentang alam perairan dan daratan ini menjadi benteng terakhir berbagai fauna dan fauna di
+        sisi selatan Jawa Timur. Berbatasan langsung dengan Samudera Hindia, Meru Betiri menjadi
+        persinggahan empat dari 7 jenis penyu laut di dunia. Penyu hijau (Chelonia mydas), Penyu
+        sisik (Eretmochelys imbricata), Penyu slengkrah (Lepidochelys olivacea), dan Penyu
+        belimbing (Dermochelys coriacea) menyambangi pesisir Meru Betiri untuk memendam
+        telur-telurnya.
+    </string>
+    <string name="taman_info38">
+        Panorama padang Baluran telah lama dijuluki secuil Afrika di ujung timur Pulau Jawa. Taman
+        Nasional Baluran, di Situbondo, Jawa Timur, memang memendam savana dengan kehidupan
+        satwa liarnya.
+    </string>
+    <string name="taman_info39">
+        Alas Purwo tak sekadar sekeping belantara, namun juga bertaut dengan nuansa budaya, religi
+        dan ilmu pengetahuan. Taman nasional yang terletak di Banyuwangi, Provinsi Jawa Timur, ini
+        merupakan sepucuk tanah bagi kaum kelana ombak, spiritual dan budaya yang bergaung di
+        pentas dunia.
+    </string>
+    <string name="taman_info40">
+        Berbulu seputih kapas dengan coretan biru melintang di mata, Jalak Bali secara alami hanya
+        hidup di Bali. Ahli burung Inggris Baron Stressmann menemukan burung berjuluk Leucopsar
+        Rothschildi ini pada 24 Maret 1911. Penemuan itu terjadi ketika kapal Ekspedisi Malaku II
+        yang mengangkut para peneliti terpaksa mendarat di Singaraja selama 3 bulan.
+    </string>
+    <string name="taman_info41">
+        Syahdan, di masa lampau Gunung Rinjani pernah menjulang 5.000 meter dpl. Kini, puncak
+        Rinjani menjadi salah satu obyek wisata yang paling diminati di kawasan Taman Nasional
+        Gunung Rinjani, Nusa Tenggara Barat, yang berada pada 3.726 meter dpl. Gunung Rinjani yang
+        saat ini merupakan gunung nomor 2 tertinggi di Indonesia, masih aktif. Sejarah mencatat
+        letusan dahsyatnya pada 1884 dan terakhir pada 3 November 1994.
+    </string>
+    <string name="taman_info42">
+        Dari angkasa, untaian pulau-pulau besar dan kecil, tampak mengapung di perairan Komodo.
+        Gersang dan tandus, itulah kesan pertama saat melihat gugusan kepulauan Taman Nasional
+        Komodo. Namun, air laut biru jernih yang mengelilingi pulau-pulau membasuh kesan gersang
+        itu. Pulau Komodo, Rinca, Padar, Gili Motang, Nusa Kode dan pulau-pulau kecil membentuk
+        panorama bentang alam kawasan konservasi ini. Di lima pulau itulah, sang biawak raksasa,
+        Komodo (Varanus komodoensis) bermukim.
+    </string>
+    <string name="taman_info43">
+        Taman Nasional Manupeu Tanah Daru menawarkan pesona air terjun Lapopu yang memukau para
+        pelancong melalui perjalanan yang penuh tantangan. Sementara itu, Taman Nasional Laiwangi
+        Wanggameti di Sumba, yang meliputi wilayah perbukitan hingga cakrawala, memiliki tajuk
+        rapat dan berperan penting dalam menyimpan cadangan air yang sangat dibutuhkan oleh
+        masyarakat setempat selama musim kering.
+    </string>
+    <string name="taman_info45">
+        Di puncak Kelimutu, Kabupaten Ende, Nusa Tenggara Timur, ketiga danau menjadi saksi bisu
+        bersemayamnya para roh leluhur masyarakat Lio; Atapolo yang berwarna merah untuk roh
+        jahat; Nua Muri Koo Fai yang berwarna hijau tosca untuk roh muda mudi Ata Mbupu yang
+        berwarna hitam untuk roh orang tua atau bijaksana. Tak jauh dari pintu gerbang taman
+        nasional, terdapat batu besar yang disebut Perekonde. Masyarakat Lio meyakini, inilah
+        gerbang pengadilan tempat para roh mendapat penghakiman sesuai tingkah lakunya semasa
+        di dunia.
+    </string>
+    <string name="taman_info46">
+        Berdiri anggun di Semenanjung Sanggar, Pulau Sumbawa, dua abad lalu Tambora pernah
+        mengguncang bumi. Kini, dalam kebekuan yang sunyi, Tambora menawarkan pesona alam dan
+        sumber kehidupan bagi manusia di sekelilingnya. Usai dua ratus tahun mengamuk, Tambora
+        kini menjadi taman nasional termuda di Indonesia. Kementerian Lingkungan Hidup dan
+        Kehutanan menetapkan Gunung Tambora sebagai taman nasional seluas 71.645 hektare.
+    </string>
+    <string name="taman_info47">
+        Taman nasional Aketajawe Lalobata berada di Halmahera Tengah, Kota Tidore Kepulauan dan
+        Halmahera Timur, Provinsi Maluku Utara. Bagi para pengamat burung provinsi ini bagaikan
+        surga. Maluku Utara memiliki 243 jenis burung, 26 jenis di antaranya endemik, sementara di
+        Pulau Halmahera terdapat 211 jenis, 24 di antaranya endemik. Jenis burung endemik
+        Halmahera: Gendang Halmahera (Habroptila walacei), Cekakak murung (Todiramphus diops),
+        Kepudang sungu Halmahera (Coracina parvula), kepudang Halmahera (Oriolus phaeochromus).
+    </string>
+    <string name="taman_info48">
+        Manusela merupakan etalase alam berbagai ekosistem Seram: pantai, hutan rawa, hutan hujan
+        dataran rendah dan hutan hujan pegunungan. Dari garis pantai hingga pegunungannya, Manusela
+        menyajikan jajaran tipe-tipe vegetasi Pulau Seram. Mulai dari mangrove, pantai, hutan
+        rawa, tebing sungai, hutan hujan tropis, hutan pegunungan, sampai hutan sub-alpin.
+    </string>
+    <string name="taman_info49">
+        Sejauh mata memandang, samudera merajai lansekap Taman Nasional Laut Cenderawasih. Taman
+        nasional ini berada di tepi Samudera Pasifik, di daerah pertemuan lempeng Benua Australia
+        dan lempengan Samudera Pasifik. Sejarah geologi itu membuat kawasan ini berlimpah
+        keanekaragaman hayati.
+    </string>
+    <string name="taman_info50">
+        Membentang 2,35 juta hektare, taman nasional ini pada 2004 mendapat pengakuan sebagai Asean
+        Herritage Parks. Keunikan kawasan ini berupa formasi gua-gua karst yang perkasa, dan paling
+        menarik di dunia. Sungai Baliem Timur menjadi salah satu contoh sungai bawah tanah yang
+        mengalir mengikuti gua karst terluas di dunia. Sungai Baliem masuk ke dalam gua di Luweng
+        Batunaga, dan muncul kembali di bagian Utara punggung gunung di Yaruki.
+    </string>
+    <string name="taman_info51">
+        Alam Wasur punya dua wajah seiring pergantian musim. Masa transisi terjadi saat September,
+        kala peralihan musim. Rawa yang berlimpah air saat musim hujan, perlahan mengering
+        menyisakan tanah retak dan genangan air di tengah padang. Pelestarian Wasur selaras
+        dengan nilai-nilai lokal, yang dicuplik menjadi moto Kabupaten Merauke: Izakod Bekai
+        Izakod Kai: Satu Hati Satu Tujuan. Suku-suku lokal memang memegang tegu hukum adat untuk
+        menjaga hubungan masyarakat dengan alam.
+    </string>
+    <string name="taman_info52">
+        Berada di Kabupaten Siak, Propinsi Riau, Taman Nasional Zamrud menyandang sebagai Taman
+        Nasional ke 52 di tanah air. Dengan luas 31.480 hektar, Taman Nasional Zamrud didominasi
+        oleh ekosistem rawa gambut. Kawasan taman nasional yang semula berstatus sebagai Suaka
+        Margasatwa ini merupakan habitat bagi burung Serindit Melayu (Lariculus galgulus) dan 12
+        Species burung lainnya, yang masuk dalam daftar IUCN yaitu sebagai jenis burung yang
+        dilindungi.
+    </string>
+    <string name="taman_info53">
+        Pada tahun yang sama dengan ditetapkannya Taman Nasional Zamrud, di sisi tengah Indonesia,
+        tepatnya di Propinsi Sulawesi Barat, lahir pula Taman Nasional Gandang Dewata. Taman
+        Nasional ke-53 ini berada di tiga kabupaten; Mamasa, Mamuju Tengah dan Mamuju. Tingkat
+        keanekaragaman hayati yang tinggi dengan keaslian dan keunikannya, menjadi dasar utama
+        penetapan kawasan ini sebagai taman nasional.
+    </string>
+    <string name="taman_info54">
+        Taman Nasional Gunung Maras, yang berada di Kecamatan Riau Silip dan Kecamatan Kelapa,
+        Kabupaten Bangka Barat dan Kabupaten Bangka, Provinsi Bangka Belitung. Gunung Maras
+        menopang kawasan seluas 16.806,91 hektare dan ditetapkan sebagai Taman Nasional pada
+        27 Juli 2016. Keunikan kawasan ini terletak pada keragaman ekosistem yang menjadi satu
+        kesatuan bentang alam; mangrove, pegunungan, dan dataran rendah.
+    </string>
+    <string name="ubah_bahasa">Ubah bahasa</string>
+    <string name="indonesia">Bahasa Indonesia</string>
+    <string name="inggris">Bahasa Inggris</string>
+    <string name="tn1_a1">
+        Menyelusuri keindahan alam di Taman Nasional Gunung Leuser. Langkah demi langkah,
+        menjelajahi hutan hujan yang begitu indah, dipenuhi dengan tumbuhan dan hewan yang langka.
+    </string>
+    <string name="tn1_a2">
+        Salah satu spot Arung Jeram terbaik di Indonesia. Pertama kali secara komersial SOBEK
+        EXPEDITION memperkenalkan wisata ArungJeram Sungai Alas  pada tahun 1970-an. Mengarungi
+        Sungai Alas, kita menikmati sudut pandag yang lain dari Taman Nasional Gunung Leuser.
+        Keindahan dan kealamian alam, tumbuhan hewan, dapat dinikmati dari atas perahu karet
+        sembari menerjang jeram Sungai Alas.
+    </string>
+    <string name="tn1_a3">
+        Menggosok, menyentuh, membelai bulu-bulu kasar dan kulit tebal Gajah Sumatera memberi kesan
+        mendalam bagi wisatawan saat memandikan satwa ini
+    </string>
+    <string name="tn1_a4">
+        Menyaksikan pelepasan tukik (anak penyu) ke laut, memberikan mereka peluang untuk tumbuh
+        besar dan memulai perjalanan mereka menuju dunia bawah laut yang penuh keindahan.
+    </string>
+    <string name="tn1_a5">
+        Menaiki gajah pribumi yang ramah ini. Dengan pemandangan alam yang menakjubkan sebagai
+        latar belakang, kamu bisa merasakan kedekatan yang unik dengan alam liar. Sambil melintasi
+        hutan yang hijau dan mendengarkan bisikan dedaunan, gajah ini akan membawamu menjelajahi
+        keindahan Taman Nasional Gunung Leuser.
+    </string>
+    <string name="tn1_kh1">
+        Orangutan Sumatera (Pongo abelii) telah memikat wisatawan dari belahan dunia. Pusat
+        Pengamatan Orangutan Sumatera ini berada di Desa Perkebunan Bukit Lawang, Bahorok, Langkat.
+        Mengamati Orangutan Sumatera merupakan suguhan di sela jelajah rimba raya di Bukit Lawang.
+    </string>
+    <string name="tn1_kh2">
+        Ingin bertualang sembari menunggang Gajah Sumatera? Sambangilah kawasan ekowisata
+        Tangkahan, Batang Serangan, Langkat, Sumatera Utara. Dikenal sebagai surga terqpendam di
+        Sumatera Utara, Tangkahan berada di dalam Taman Nasional Gunung Leuser.
+    </string>
+    <string name="tn1_kh3">
+        Tengoklah keindahan alam Gunung Leuser yang unik ini! Di Taman Nasional Gunung Leuser, kita
+        dapat melihat penyu lekang, salah satu hewan langka yang perlu kita lindungi.
+    </string>
+    <string name="tn1_kh4">
+        Tampilan megah Rafflesia atjehensis di Taman Nasional Gunung Leuser. Keindahan alam yang
+        langka ini adalah salah satu spesies Rafflesia terbesar di dunia, dengan bunga mencolok
+        yang dapat mencapai hingga 1 meter!
+    </string>
+    <string name="tn1_kh5">
+        Keindahan yang hampir mistis dari Pygmy Water Lily (teratai mini) di Taman Nasional Gunung
+        Leuser. Tersembunyi di antara hutan hijau yang lebat, bunga-bunga kecil ini mekar di atas
+        permukaan air, menciptakan pemandangan yang luar biasa indah
+    </string>
+    <string name="tn2_a1">
+        Nikmati petualangan seru di Taman Nasional Batang Gadis dengan aktivitas tubbing yang
+        mengasyikkan. Terjun ke sungai mengalir di tengah hutan tropis, rasakan kegembiraan yang
+        tiada tara.
+    </string>
+    <string name="tn2_a2">
+        Kunjungi Taman Nasional Batang Gadis dan jelajahi keelokan budaya lokal dengan rumah
+        tradisional Sibanggor. Saksikan keindahan arsitektur yang terpelihara dan nikmati
+        pengalaman mendalam di tengah alam liar yang megah.
+    </string>
+    <string name="tn2_a3">
+        Hiking di Taman Nasional Batang Gadis. Menikmati petualangan menyerukan dengan pemandangan
+        spektakuler yang tak terlupakan di alam yang masih asri.
+    </string>
+    <string name="tn2_a4">
+        Aek Cunek adalah air terjun setinggi 100 meter dengan pemandangan alam yang indah.
+    </string>
+    <string name="tn2_kh1">
+        Harimau Sumatera, simbol kekuatan dan keanggunan di Taman Nasional Batang Gadis.
+        Berkunjunglah untuk saksikan keindahan alam liar yang menakjubkan.
+    </string>
+    <string name="tn2_kh2">
+        Saksiilah keindahan alam liar: Burung Kuau Argus, permata Taman Nasional Batang Gadis.
+        Datanglah dan saksikan pesona kehidupan liar yang memukau.
+    </string>
+    <string name="tn2_kh3">
+        Keindahan alam yang luar biasa di Taman Nasional Batang Gadis: Anggrek Lidah Bergoyang yang
+        mempesona. Jelajahi keajaiban alam ini sekarang!
+    </string>
+    <string name="tn2_kh4">
+        Kantong Semar, pemangsa serangga di Taman Nasional Batang Gadis. Keindahan alam liar yang
+        mengejutkan menanti untuk dijelajahi.
+    </string>
+    <string name="tn2_kh5">
+        Di Taman Nasional Batang Gadis, Rafflesia meijerri dyang tumbuh berdampingan dengan jamur
+        liar. Saksikan keindahan unik ini dan temukan keajaiban alam di setiap langkahmu.
+    </string>
+    <string name="tn3_a1">
+        Menikmati momen santai dan amati kehidupan liar di Taman Nasional Tesso Nilo dengan bird
+        watching. Lihatlah beragam burung hutan yang unik dalam habitat aslinya.
+    </string>
+    <string name="tn3_a2">
+        Dapatkan pengalaman belajar yang tak terlupakan dengan edukasi gajah di Taman Nasional
+        Tesso Nilo. Kenali lebih dekat kehidupan dan perlindungan gajah yang istimewa.
+    </string>
+    <string name="tn3_a3">
+        Ikuti jejak para pahlawan alam di Taman Nasional Tesso Nilo dengan mengenal seni bela diri
+        tradisional, Silat Pangean.
+    </string>
+    <string name="tn3_a4">
+        Saksikan momen penuh keceriaan saat gajah-gajah di Taman Nasional Tesso Nilo menikmati
+        waktu mandi mereka. Pengalaman mendekatkan diri dengan makhluk luar biasa ini di tengah
+        keindahan alam.
+    </string>
+    <string name="tn3_a5">
+        Tak perlu khawatir noda lumpur ketika menyusuri hutan, lantaran rute jelajah alam telah
+        dilapisi paving block. Sepanjang tiga kilometer penjelajahan, mata pengunjung akan disuguhi
+        pepohonan raksasa yang teduh.
+    </string>
+    <string name="tn3_kh1">
+        Kawasan Tesso Nilo  menjadi salah satu pusat konservasi habitat satwa tambun dengan sekitar
+        150 ekor Gajah.
+    </string>
+    <string name="tn3_kh2">
+        Keindahan Taman Nasional Tesso Nilo dirasakan melalui pesona alam liar, termasuk Rangkong
+        Badak yang menjadi bagian tak terpisahkan dari ekosistemnya.
+    </string>
+    <string name="tn3_kh3">
+        Jelajahi kehidupan malam di Taman Nasional Tesso Nilo, tempat kodok-kodok beraneka jenis
+        berkumpul dan menciptakan ragam suara yang khas.
+    </string>
+    <string name="tn3_kh4">
+        Melihatkan keindahan warna dan riangnya burung-burung beraneka jenis di Taman Nasional
+        Tesso Nilo, membuat setiap langkah petualangan di sini tak terlupakan.
+    </string>
+    <string name="tn3_kh5">
+        Tumbuhan kantong semar, pemangsa serangga yang unik, menjadi salah satu tumbuhan yang ada
+        di Taman Nasional Tesso Nilo.
+    </string>
+    <string name="tn4_a1">
+        Menikmati keindahan budaya lokal dengan tarian tradisional turuk laggai di Taman Nasional
+        Siberut.
+    </string>
+    <string name="tn4_a2">
+        Meresapi kearifan budaya masyarakat Siberut yang unik.
+    </string>
+    <string name="tn4_a3">
+        Menyaksikan momen indah pelepasan tukik, simbol harapan baru di tengah hutan Siberut.
+    </string>
+    <string name="tn4_kh1">
+        Terpesona oleh warna-warni bunga asystasia gangetica yang mekar di Taman Nasional Siberut.
+    </string>
+    <string name="tn4_kh2">
+        Eksplorasi keanekaragaman tumbuhan dengan menemukan kantong semar yang unik di dalam hutan
+        Siberut.
+    </string>
+    <string name="tn4_kh3">
+        Saksikan pohon montrouziera cauliflora yang langka, sebuah keajaiban alam Taman Nasional
+        Siberut.
+    </string>
+    <string name="tn4_kh4">
+        Ayo mencari owa bilau, primata yang menjadi bagian tak terpisahkan dari ekosistem hutan
+        Siberut.
+    </string>
+    <string name="tn5_a1">
+        Mendekati Puncak Gunung Kerinci tumbuhan yang menghijau makin jarang-jarang. Selayang
+        pandang, panorama sebening kaca ini menyajikan bentang alam tropis Sumatera.
+    </string>
+    <string name="tn5_a2">
+        Menghadiri keindahan alam alami dengan mengunjungi Air Terjun Lumpo di Taman Nasional
+        Kerinci Seblat.
+    </string>
+    <string name="tn5_a3">
+        Nikmati petualangan menyusuri sungai yang mempesona dengan kapal di Taman Nasional Kerinci
+        Seblat.
+    </string>
+    <string name="tn5_kh1">
+        Harimau Sumatera menggerayangi rimba raya Kerinci. Pamor kucing besar ini terlihat dari
+        julukan yang diberikan masyarakat: si datuk.
+    </string>
+    <string name="tn5_kh2">
+        Berjumpa dengan arctictis binturong, hewan yang unik di Taman Nasional Kerinci Seblat.
+    </string>
+    <string name="tn5_kh3">
+        Berselimut keremangan hutan tropis, kembang Rafflesia arnoldi merekah mengembang, seakan
+        meletup mewarnai rimba raya.
+    </string>
+    <string name="tn6_a1">
+        Nikmati petualangan seru dengan hiking di Taman Nasional Bukit Duabelas. Menjelajahi alam
+        dan kebudayaan yang unik.
+    </string>
+    <string name="tn6_a2">
+        Sambut keramahan suku Orang Rimba dengan mengunjungi rumah adat mereka di Taman Nasional
+        Bukit Duabelas. Pengalaman budaya yang tak terlupakan.
+    </string>
+    <string name="tn6_a3">
+        Bertemu dengan komunitas Orang Rimba yang hidup harmonis dengan alam di Taman Nasional
+        Bukit Duabelas. Keanekaragaman budaya yang menakjubkan.
+    </string>
+    <string name="tn6_kh1">
+        Siamang, salah satu dari banyak makhluk menakjubkan yang Anda temui di Taman Nasional Bukit
+        Duabelas. Keanekaragaman hayati yang mempesona.
+    </string>
+    <string name="tn6_kh2">
+        Bulbobpyhllum Patens, salah satu dari banyak jenis tumbuhan yang berkembang di Taman
+        Nasional Bukit Duabelas. Pesona alam yang perlu dijaga.
+    </string>
+    <string name="tn6_kh3">
+        Dipodium Scardens, orkid eksotis yang tumbuh subur di Taman Nasional Bukit Duabelas.
+        Keindahan alam yang memukau.
+    </string>
+    <string name="tn6_kh4">
+        Meranti Bunga, tanaman unik yang menjadi bagian penting dari ekosistem Taman Nasional Bukit
+        Duabelas. Keajaiban alam yang perlu dilestarikan.
+    </string>
+    <string name="tn6_kh5">
+        Kantong Semar, tanaman karnivora yang menarik perhatian di Taman Nasional Bukit Duabelas.
+        Keanekaragaman hayati yang harus kita jaga bersama.
+    </string>
+    <string name="tn7_a1">
+        Rasakan petualangan luar biasa dengan Jungle Run di Taman Nasional Bukit Tigapuluh.
+        Adrenaline dan keindahan alam dalam satu paket.
+    </string>
+    <string name="tn7_a2">
+        Meluncur cepat di atas air dengan Speedboat di Taman Nasional Bukit Tigapuluh. Menyusuri
+        sungai yang memukau dengan kecepatan.
+    </string>
+    <string name="tn7_a3">
+        Objek wisata di Taman Nasional Bukit Tigapuluh, selain untuk melakukan camp juga bisa untuk
+        trailing, hiking, dan birtd watching.
+    </string>
+    <string name="tn7_kh1">
+        Pelatuk Sayap Merah, salah satu dari banyak burung yang mempercantik keanekaragaman hayati
+        Taman Nasional Bukit Tigapuluh. Keindahan warna alam.
+    </string>
+    <string name="tn7_kh2">
+        Rangkong, burung raksasa dengan paruh mencolok yang menjadi bagian penting dari ekosistem
+        Taman Nasional Bukit Tigapuluh. Keunikan alam yang perlu kita jaga.
+    </string>
+    <string name="tn7_kh3">
+        Tapir, hewan herbivora yang eksotis yang melintasi hutan-hutan Taman Nasional Bukit
+        Tigapuluh. Keajaiban alam yang harus dilestarikan.
+    </string>
+    <string name="tn7_kh4">
+        Konkang Kolam, hewan habitat air yang penting bagi keberagaman hayati Taman Nasional Bukit
+        Tigapuluh.
+    </string>
+    <string name="tn7_kh5">
+        Harimau Sumatera, predator yang menawan di Taman Nasional Bukit Tigapuluh. Simbol keindahan
+        dan kekuatan alam.
+    </string>
+    <string name="tn8_a1">
+        Nikmati keindahan alam saat pengamatan burung di Taman Nasional Berbak dan Sembilang.
+    </string>
+    <string name="tn8_a2">
+        Jelajahi keindahan sungai dengan perahu di Taman Nasional Berbak dan Sembilang. Petualangan
+        air yang seru.
+    </string>
+    <string name="tn8_a3">
+        Terjunlah ke alam dengan trailing di Taman Nasional Berbak dan Sembilang. Petualangan
+        berliku di hutan yang menakjubkan.
+    </string>
+    <string name="tn8_a4">
+        Saksikan keindahan matahari terbit dari Dusun Sembilang di Taman Nasional Berbak dan
+        Sembilang. Pagi yang menginspirasi.
+    </string>
+    <string name="tn8_a5">
+        Ikuti proses tradisional pembuatan terasi di Taman Nasional Berbak dan Sembilang. Pelajaran
+        budaya yang beraroma.
+    </string>
+    <string name="tn8_kh1">
+        Gajah Sumatera, salah satu hewan yang mendominasi keanekaragaman hayati Taman Nasional
+        Berbak dan Sembilang. Keajaiban alam yang perlu dilestarikan.
+    </string>
+    <string name="tn8_kh2">
+        Buaya, predator kuat yang hidup di sungai-sungai Taman Nasional Berbak dan Sembilang.
+        Bagian integral dari ekosistem sungai.
+    </string>
+    <string name="tn8_kh3">
+        Kakatua, burung eksotis yang menghiasi langit Taman Nasional Berbak dan Sembilang.
+        Keberagaman fauna yang memukau.
+    </string>
+    <string name="tn8_kh4">
+        Orangutan, primata yang menawan yang hidup di hutan-hutan Taman Nasional Berbak dan
+        Sembilang. Keanekaragaman hayati yang menginspirasi.
+    </string>
+    <string name="tn8_kh5">
+        Kantung Semar, tanaman karnivora yang unik, tumbuh subur di Taman Nasional Berbak dan
+        Sembilang. Keunikan flora yang harus dijaga.
+    </string>
+    <string name="tn10_a1">
+        Berani mencoba arum jeram di Sungai Cilik? Rasakan sensasi petualangan yang mendebarkan di
+        Taman Nasional Bukit Barisan Selatan.
+    </string>
+    <string name="tn10_a2">
+        Saksikan keindahan alam di kawah Talang Bukit yang menakjubkan di Taman Nasional Bukit
+        Barisan Selatan.
+    </string>
+    <string name="tn10_a3">
+        Dapatkan wawasan tentang alam di Taman Nasional Bukit Barisan Selatan dengan mengikuti
+        program belajar fenologi di Stasiun Penelitian Way Canguk.
+    </string>
+    <string name="tn10_kh1">
+        Keanekaragaman hayati Taman Nasional Bukit Barisan Selatan juga mencakup kura-kura yang
+        eksotis.
+    </string>
+    <string name="tn10_kh2">
+        Rangkong julang bersarang pada lubang pohon hutan.
+    </string>
+    <string name="tn10_kh3">
+        Raflesia arnoldii yang bertengger di batang liana.
+    </string>
+    <string name="tn10_kh4">
+        Gajah Sumatera, salah satu hewan bagian keanekaragaman hayati Taman Nasional Bukit Barisan
+        Selatan. Keajaiban alam yang perlu dilestarikan.
+    </string>
+    <string name="tn11_a1">
+        Nikmati petualangan camping di Taman Nasional Way Kambas. Malam yang penuh bintang di
+        tengah alam liar.
+    </string>
+    <string name="tn11_a2">
+        Ikuti tur seru di Taman Nasional Way Kambas. Jelajahi kekayaan alam dan kultur lokal.
+    </string>
+    <string name="tn11_a3">
+        Rasakan momen istimewa memberi makan gajah di Taman Nasional Way Kambas. Interaksi yang tak
+        terlupakan dengan hewan kuat.
+    </string>
+    <string name="tn11_a4">
+        Amati keindahan burung-burung liar di Taman Nasional Way Kambas. Pengalaman pengamatan
+        burung yang mengagumkan.
+    </string>
+    <string name="tn11_a5">
+        Saksikan keindahan budaya dengan Tari Lampung di Taman Nasional Way Kambas. Kultur yang
+        hidup di alam liar.
+    </string>
+    <string name="tn11_kh1">
+        Badak Sumatera, salah satu dari spesies yang dilindungi dengan giat di Taman Nasional Way
+        Kambas. Keanekaragaman hayati yang perlu dijaga.
+    </string>
+    <string name="tn11_kh2">
+        Beruang, hewan kuat yang hidup di dalam hutan Taman Nasional Way Kambas. Kehadiran mereka
+        menambah kekayaan alam yang luar biasa.
+    </string>
+    <string name="tn11_kh3">
+        Harimau, predator kuat yang juga menjadi salah satu ikon Taman Nasional Way Kambas.
+        Keberadaan mereka adalah kebanggaan alam.
+    </string>
+    <string name="tn11_kh4">
+        Gajah, makhluk megah yang berjalan di hutan Taman Nasional Way Kambas. Bagian tak
+        terpisahkan dari keanekaragaman hayati.
+    </string>
+    <string name="tn11_kh5">
+        Mentok Rimba, burung langka yang menjadi ciri khas Taman Nasional Way Kambas. Pesona
+        kehidupan liar yang memukau.
+    </string>
+    <string name="tn12_a1">
+        Nikmati malam yang tenang di camping ground Taman Nasional Gunung Palung. Suasana alam yang
+        segar dan bintang yang bersinar.
+    </string>
+    <string name="tn12_a2">
+        Rasakan petualangan tubing di sungai-sungai Taman Nasional Gunung Palung. Serunya berlayar
+        di aliran air yang menantang.
+    </string>
+    <string name="tn12_a3">
+        Eksplorasi keindahan alam di sekitar air terjun Lubuk Baji di Taman Nasional Gunung Palung.
+        Pemandangan yang menakjubkan untuk dinikmati.
+    </string>
+    <string name="tn12_a4">
+        Saksikan keindahan air terjun Riam Berasap di Taman Nasional Gunung Palung. Tempat yang
+        sempurna untuk bersantai dan menikmati alam.
+    </string>
+    <string name="tn12_a5">
+        Nikmati pemandangan memukau di Riam Bekinjil di Taman Nasional Gunung Palung. Keajaiban
+        alam yang tak terlupakan.
+    </string>
+    <string name="tn12_kh1">
+        Acanthomenexenus Polyacanthus, salah satu dari beragam spesies langka di Taman Nasional
+        Gunung Palung. Keberadaannya yang unik menjadi daya tarik alam.
+    </string>
+    <string name="tn12_kh2">
+        Red-Naped Trogon, burung cantik dengan warna merah pada badannya, menjadi salah satu dari
+        banyak penghuni Taman Nasional Gunung Palung. Keelokan fauna yang memukau.
+    </string>
+    <string name="tn12_kh3">
+        Orangutan, simpanse besar yang sangat terancam, juga memanggil Taman Nasional Gunung Palung
+        sebagai rumah. Keberadaan mereka adalah peninggalan berharga alam.
+    </string>
+    <string name="tn13_a1">
+        Rasakan sensasi petualangan air dengan kayaking di Taman Nasional Bentarum. Aktivitas yang
+        cocok untuk semua kalangan.
+    </string>
+    <string name="tn13_a2">
+        Ayo bersantai dengan tubing di sungai-sungai yang menawan di Taman Nasional Bentarum.
+        Liburan seru untuk keluarga dan teman-teman.
+    </string>
+    <string name="tn13_a3">
+        Nikmati pemandangan spektakuler dengan wisata cruise di Taman Nasional Bentarum. Pengalaman
+        berlayar yang tak terlupakan.
+    </string>
+    <string name="tn13_kh1">
+        Orangutan, simpanse besar yang sangat terancam, juga memanggil Taman Nasional Bentarum
+        sebagai rumah. Keberadaan mereka adalah peninggalan berharga alam.
+    </string>
+    <string name="tn13_kh2">
+        Terpesona dengan keindahan Arwana Super Red yang berkilau di Taman Nasional Bentarum.
+        Pesona dunia bawah air yang menakjubkan.
+    </string>
+    <string name="tn13_kh3">
+        Temukan ragam makhluk menarik seperti Huntsman Spider di Taman Nasional Bentarum.
+        Keanekaragaman fauna yang memukau.
+    </string>
+    <string name="tn14_a1">
+        Buat kenangan tak terlupakan di camping ground Taman Nasional Bukit Baka Bukit Raya.
+        Nikmati suasana alam yang tenang dan bintang-bintang di malam hari.
+    </string>
+    <string name="tn14_a2">
+        Tantang dirimu dengan pendakian Bukit Raya di Taman Nasional Bukit Baka Bukit Raya.
+        Puncaknya menawarkan pemandangan luar biasa yang membuat usahamu sepadan.
+    </string>
+    <string name="tn14_a3">
+        Rasakan keajaiban alam saat melakukan pengamatan satwa di Taman Nasional Bukit Baka Bukit
+        Raya. Lihatlah beragam makhluk hidup yang hidup bebas di habitatnya.
+    </string>
+    <string name="tn14_a4">
+        Jelajahi keindahan perairan dengan perahu di Taman Nasional Bukit Baka Bukit Raya. Nikmati
+        ketenangan air dan alam yang mengelilingimu.
+    </string>
+    <string name="tn14_a5">
+        Rasakan kegembiraan rafting sungai Ella Hulu di Taman Nasional Bukit Baka Bukit Raya.
+        Suasana seru yang melibatkanmu langsung dengan alam liar.
+    </string>
+    <string name="tn14_kh1">
+        Menyelinap ke dalam hutan Bukit Baka – Bukit Raya, kita akan disambut semarak suara satwa
+        liar. Salah satunya adalah suara Kukang. Riuh rendah suara satwa ini menciptakan harmoni
+        alam yang meneduhkan.
+    </string>
+    <string name="tn14_kh2">
+        Saksikan keindahan kupu-kupu King Rajah Brooke yang mempesona, beterbangan dengan hijau di
+        antara pepohonan.
+    </string>
+    <string name="tn14_kh3">
+        Rusa Sambar, hewan yang mengagumkan, berkeliaran dengan indahnya di dalam Taman Nasional
+        Bukit Baka Bukit Raya.
+    </string>
+    <string name="tn14_kh4">
+        Keajaiban tumbuhan, Amorphophallus Hewittii, mekar di Taman Nasional Bukit Baka Bukit Raya.
+        Rasakan keberagaman tumbuhan yang luar biasa di alam liar ini.
+    </string>
+    <string name="tn14_kh5">
+        Rhododendron Mageanum, tumbuhan berbunga yang eksotis, tumbuh subur di dalam Taman Nasional
+        Bukit Baka Bukit Raya. Keindahan alam yang tak terbatas di setiap sudutnya.
+    </string>
+    <string name="tn16_a1">
+        Perahu klotok yang sedang parkir selalu setia mengantarkan pengunjung menyusuri Sungai
+        Sekonyer.
+    </string>
+    <string name="tn16_a2">
+        Tracking, pengalaman seru menyusuri alam terbuka di Taman Nasional Tanjung Puting.
+    </string>
+    <string name="tn16_a3">
+        Wisatawan asing sibuk mendokumentasikan Orangutan di Camp Leakey.
+    </string>
+    <string name="tn16_kh1">
+        Orangutan, ikon kehidupan liar di Taman Nasional Tanjung Puting.
+    </string>
+    <string name="tn16_kh2">
+        Kawanan Bekantan meriung di tajuk pohon yang dipimpin oleh pejantan dominan. Pejantan
+        ditandai oleh hidungnya yang panjang.
+    </string>
+    <string name="tn16_kh3">
+        Ragam kehidupan di Taman Nasional Tanjung Puting: Laba-laba Nephila Pilipes.
+    </string>
+    <string name="tn17_a1">
+        Menyaksikan keelokan burung di Taman Nasional Sebangau.
+    </string>
+    <string name="tn17_a2">
+        Petualangan tak terlupakan: tracking di hutan belantara Sebangau.
+    </string>
+    <string name="tn17_a3">
+        Mengarungi sungai dan meresapi keanekaragaman hayati Sebangau.
+    </string>
+    <string name="tn17_kh1">
+        Warna-warni kehidupan di Taman Nasional Sebangau: Burung Pekaka Emas menghiasi langit.
+    </string>
+    <string name="tn17_kh2">
+        Kehidupan di Taman Nasional Sebangau: Kantong Semar Nephentes, predator terselubung.
+    </string>
+    <string name="tn17_kh3">
+        Orangutan Pongo pymaeus, penjaga hutan dan keajaiban alam di Sebangau.
+    </string>
+    <string name="tn17_kh4">
+        Keanekaragaman hayati di Taman Nasional Sebangau: Burung Trogon Kesumba dan hutan yang
+        indah.
+    </string>
+    <string name="tn17_kh5">
+        Pesona keindahan alam di Taman Nasional Sebangau: Anggrek Retak Seribu Bulbophyllum
+        reticulatum.
+    </string>
+    <string name="tn18_a1">
+        Saksikan tarian lokal yang memukau di Taman Nasional Kayan Mentarang. Keindahan budaya yang
+        hidup.
+    </string>
+    <string name="tn18_a2">
+        Telusuri kekayaan budaya di Taman Nasional Kayan Mentarang. Temui masyarakat lokal yang
+        ramah dan pelajari tradisi mereka.
+    </string>
+    <string name="tn18_a3">
+        Melihat gaya hidup lokal yang indah di Taman Nasional Kayan Mentarang. Nikmati pesona alam
+        dan kehidupan sehari-hari masyarakat.
+    </string>
+    <string name="tn18_a4">
+        Saksikan proses pengolahan garam  di Taman Nasional Kayan Mentarang. Kehidupan sehari-hari
+        yang penuh makna.
+    </string>
+    <string name="tn18_kh1">
+        Owa ungko, primata eksotis di Taman Nasional Kayan Mentarang, menambah pesona
+        keanekaragaman hayati. Kehadiran mereka adalah bagian istimewa dari alam liar.
+    </string>
+    <string name="tn18_kh2">
+        Elang, predator yang megah, menjadikan Taman Nasional Kayan Mentarang sebagai rumahnya.
+        Pesona kebebasan di udara yang luas.
+    </string>
+    <string name="tn18_kh3">
+        Python, ular raksasa yang mengagumkan, adalah salah satu penghuni menarik di Taman Nasional
+        Kayan Mentarang. Keajaiban alam yang penuh misteri.
+    </string>
+    <string name="tn18_kh4">
+        Neptis columella, kupu-kupu eksotis di Taman Nasional Kayan Mentarang, menghiasi hutan
+        dengan warna-warni. Keanekaragaman hayati yang mempesona.
+    </string>
+    <string name="tn18_kh5">
+        Raflesia, bunga raksasa yang langka, tumbuh subur di Taman Nasional Kayan Mentarang.
+        Keindahan alam yang tak terlupakan.
+    </string>
+    <string name="tn19_a1">
+        Naik kanoe di Taman Nasional Kutai dan eksplorasi sungai yang mengagumkan. Petualangan air
+        yang seru di alam liar.
+    </string>
+    <string name="tn19_a2">
+        Nikmati pemandangan indah di Taman Nasional Kutai. Keindahan alam yang memukau siap untuk
+        dijelajahi.
+    </string>
+    <string name="tn19_a3">
+        Sambangi Gua Sampekmarta di Taman Nasional Kutai dan temui keajaiban bawah tanah.
+        Petualangan dalam kegelapan yang menarik.
+    </string>
+    <string name="tn19_a4">
+        Rasakan hiburan live music yang seru di Taman Nasional Kutai. Suasana yang meriah untuk
+        dinikmati bersama.
+    </string>
+    <string name="tn19_a5">
+        Paddle dengan kayak di Taman Nasional Kutai dan nikmati keindahan petualangan air.
+        Aktivitas yang menyegarkan di alam terbuka.
+    </string>
+    <string name="tn19_kh1">
+        Dracontomelum dao, pohon eksotis yang menghiasi Taman Nasional Kutai. Keindahan alam yang
+        menciptakan ekosistem yang unik.
+    </string>
+    <string name="tn19_kh2">
+        Biawak adalah salah satu dari banyak makhluk menarik di Taman Nasional Kutai. Kehadiran
+        mereka menambah keanekaragaman fauna yang menarik.
+    </string>
+    <string name="tn19_kh3">
+        Kakiseribu, serangga yang beraneka ragam adalah bagian tak terpisahkan dari alam Taman
+        Nasional Kutai. Keunikan dunia serangga yang tak terbatas.
+    </string>
+    <string name="tn19_kh4">
+        Lanternfly, serangga yang memukau, menghiasi Taman Nasional Kutai dengan warna-warni
+        mereka. Keanekaragaman hayati yang menawan.
+    </string>
+    <string name="tn19_kh5">
+        Lumut hati adalah salah satu elemen Taman Nasional Kutai. Kehidupan tanaman yang menarik di
+        alam hutan yang megah.
+    </string>
+    <string name="tn20_a1">
+        Jelajahi keindahan alam Taman Nasional Bantimurung Bulusaraung dengan kegiatan tracking
+        yang menantang.
+    </string>
+    <string name="tn20_a2">
+        Nikmati pemandangan spektakuler dari atas Helena Sky Bridge, tempat yang sempurna untuk
+        melihat panorama taman nasional ini.
+    </string>
+    <string name="tn20_a3">
+        Tingkatkan petualanganmu dengan hiking di tengah keanekaragaman alam yang menakjubkan di
+        Bantimurung Bulusaraung.
+    </string>
+    <string name="tn20_a4">
+        Saksikan kecantikan kupu-kupu dalam kegiatan butterfly watching di Taman Nasional ini.
+    </string>
+    <string name="tn20_a5">
+        Berendam di bawah gemuruh Air Terjun Bantimurung dan rasakan kesegaran airnya setelah
+        sehari penuh petualangan.
+    </string>
+    <string name="tn20_kh1">
+        Saksikan keelokan julang Sulawesi yang langka saat berkunjung ke Taman Nasional Bantimurung
+        Bulusaraung.
+    </string>
+    <string name="tn20_kh2">
+        Terpesonalah oleh beragam warna kupu-kupu Graphium Androles yang menghiasi Taman Nasional
+        ini.
+    </string>
+    <string name="tn20_kh3">
+        Lihatlah kelompok macaca Maura yang lincah bermain di hutan tropis Taman Nasional
+        Bantimurung Bulusaraung.
+    </string>
+    <string name="tn20_kh4">
+        Temui Tarsius Fuscus, primata kecil yang hanya dapat ditemui di hutan-hutan Sulawesi, di
+        Taman Nasional ini.
+    </string>
+    <string name="tn21_a1">
+        Moment emosional saat tukik-tukik kecil dilepaskan ke lautan lepas untuk memulai
+        petualangan hidup mereka.
+    </string>
+    <string name="tn21_a2">
+        Nikmati sensasi berenang di perairan jernih dan hangat Taman Nasional Taka Bonerate.
+    </string>
+    <string name="tn21_a3">
+        Jelajahi keindahan bawah laut dengan snorkeling di terumbu karang yang memukau.
+    </string>
+    <string name="tn21_kh1">
+        Temui hiu sirip hitam yang perkasa di perairan Taman Nasional Taka Bonerate.
+    </string>
+    <string name="tn21_kh2">
+        Saksikan pesona penyu hijau yang langka dan megah di perairan ini.
+    </string>
+    <string name="tn21_kh3">
+        Jelajahi dunia warna-warni dengan ikan badut yang lucu di bawah laut Taka Bonerate.
+    </string>
+    <string name="tn21_kh4">
+        Waspadai batu hidup, ikan batu misterius yang pandai bersembunyi di dasar laut.
+    </string>
+    <string name="tn21_kh5">
+        Lihatlah udang mantis dengan cakar mematikan yang menjadi predator ulung di perairan Taka
+        Bonerate.
+    </string>
+    <string name="tn22_a1">
+        Nikmati aktivitas bird watching di Taman Nasional Rawa Aopa Watumohai. Saksikan
+        keanekaragaman burung yang mengisi langit.
+    </string>
+    <string name="tn22_a2">
+        Jelajahi petualangan hiking Watumohai di tengah alam liar Taman Nasional Rawa Aopa
+        Watumohai. Keindahan pemandangan alam yang mengagumkan.
+    </string>
+    <string name="tn22_a3">
+        Berlayarlah dengan perahu dan eksplorasi kehidupan di perairan Taman Nasional Rawa Aopa
+        Watumohai. Petualangan air yang seru.
+    </string>
+    <string name="tn22_a4">
+        Ikuti jalan setapak yang indah di Taman Nasional Rawa Aopa Watumohai. Nikmati kesegaran
+        alam dan lingkungan yang menakjubkan.
+    </string>
+    <string name="tn22_a5">
+        Rasakan petualangan camping di alam Taman Nasional Rawa Aopa Watumohai. Malam yang tenang
+        di bawah langit bintang.
+    </string>
+    <string name="tn22_kh1">
+        Kakatua yang ceria adalah salah satu penghuni langka di Taman Nasional Rawa Aopa Watumohai.
+        Saksikan keindahan dunia burung indah tersebut.
+    </string>
+    <string name="tn22_kh2">
+        Rusa Timor menghiasi keanekaragaman hayati Taman Nasional Rawa Aopa Watumohai. Lihatlah
+        rusa yang elegan di tengah hutan.
+    </string>
+    <string name="tn22_kh3">
+        Maleo, burung unik yang langka, menjadikan Taman Nasional Rawa Aopa Watumohai sebagai
+        rumahnya. Keberadaan mereka yang khas adalah salah satu daya tarik alam.
+    </string>
+    <string name="tn22_kh4">
+        Tarsius, primata kecil yang menggemaskan, adalah salah satu keajaiban Taman Nasional Rawa
+        Aopa Watumohai. Amati aktivitas lucu mereka di alam liar.
+    </string>
+    <string name="tn23_a1">
+        Jelajahi budaya asli di Desa Bajo Mola sekitar Taman Nasional Wakatobi. Temui penduduk
+        lokal yang ramah dan rasakan keramahan mereka.
+    </string>
+    <string name="tn23_a2">
+        Lihat keindahan bawah laut Taman Nasional Wakatobi melalui aktivitas diving. Dunia laut
+        yang spektakuler dengan beragam spesies dan terumbu karang yang memukau.
+    </string>
+    <string name="tn23_a3">
+        Terbanglah dengan paragliding dan nikmati pandangan udara yang mengagumkan di Taman
+        Nasional Wakatobi. Petualangan udara yang tak terlupakan.
+    </string>
+    <string name="tn23_a4">
+        Berendamlah di Permandian Kontamale di Taman Nasional Wakatobi. Air terjun yang menyejukkan
+        dan alam yang hijau untuk bersantai.
+    </string>
+    <string name="tn23_a5">
+        Puncak Toliamba di Taman Nasional Wakatobi, pemandangan yang memukau dari atas.
+    </string>
+    <string name="tn23_kh1">
+        Saksikan kerumunan ikan baracudas yang memikat di perairan Taman Nasional Wakatobi.
+        Keindahan laut yang mengagumkan di bawah permukaan.
+    </string>
+    <string name="tn23_kh2">
+        Penyu sisik, termasuk hawksbill sea turtle, menjadi bagian istimewa dari keanekaragaman
+        laut Taman Nasional Wakatobi. Kehadiran mereka yang langka adalah daya tarik tersendiri.
+    </string>
+    <string name="tn23_kh3">
+        Burung oriolus chinensis menambah pesona Taman Nasional Wakatobi dengan nyanyiannya. Suara
+        merdu yang menyertainya di alam yang damai.
+    </string>
+    <string name="tn23_kh4">
+        Ikan parupeneus cyclostomus menambah warna di bawah laut Taman Nasional Wakatobi.
+        Keanekaragaman hayati laut yang mempesona.
+    </string>
+    <string name="tn23_kh5">
+        Penyu hijau adalah penghuni langka yang harus kita lestarikan di Taman Nasional Wakatobi.
+        Saksikan kecantikan dan keunikan mereka di perairan yang jernih.
+    </string>
+    <string name="tn24_a1">
+        Buat kenangan tak terlupakan dengan camping di Taman Nasional Lore Lindu. Suasana alam yang
+        asri dan udara segar yang menenangkan.
+    </string>
+    <string name="tn24_a2">
+        Temukan sejarah yang tersembunyi di arca Tokalaea di Taman Nasional Lore Lindu. Warisan
+        kuno yang mengungkapkan cerita masa lalu.
+    </string>
+    <string name="tn24_a3">
+        Telusuri keindahan Lembah Napu di Taman Nasional Lore Lindu. Lanskap yang megah dengan
+        aliran sungai yang menyejukkan.
+    </string>
+    <string name="tn24_a4">
+        Saksikan keajaiban situs purbakala Pokekea di Taman Nasional Lore Lindu. Jejak peradaban
+        kuno yang masih hidup.
+    </string>
+    <string name="tn24_a5">
+        Jelajahi budaya lokal di Desa Toro, sekitar Taman Nasional Lore Lindu. Temui penduduk
+        setempat dan nikmati keramahan mereka.
+    </string>
+    <string name="tn24_kh1">
+        Bubut alang adalah salah satu dari banyak penghuni yang menghiasi Taman Nasional Lore
+        Lindu. Lihatlah keceriaan dan kegiatan mereka di alam liar.
+    </string>
+    <string name="tn24_kh2">
+        Kecil namun menawan, tarsier adalah makhluk yang memikat di Taman Nasional Lore Lindu.
+        Saksikan ketangguhan dan keunikan kehidupan malamnya.
+    </string>
+    <string name="tn24_kh3">
+        Warna-warni burung rangkong menjadi pesona tersendiri di Taman Nasional Lore Lindu.
+        Saksikan keindahan dan keberagaman hayati yang menghiasi langit.
+    </string>
+    <string name="tn24_kh4">
+        Tingkah laku yang menggemaskan dari orok-orok adalah salah satu daya tarik di Taman
+        Nasional Lore Lindu. Amati aktivitas lucu mereka dalam perjalananmu.
+    </string>
+    <string name="tn24_kh5">
+        Kantung semar adalah salah satu tanaman unik yang menghiasi Taman Nasional Lore Lindu.
+        Keajaiban alam yang menyimpan keunikan tersendiri.
+    </string>
+    <string name="tn25_a1">
+        Saksikan ragam kehidupan laut, termasuk kepiting, yang menghuni perairan Togean.
+    </string>
+    <string name="tn25_a2">
+        Jelajahi keindahan pulau-pulau dengan petualangan perahu yang seru.
+    </string>
+    <string name="tn25_a3">
+        Terjun ke dalam dunia bawah laut yang menakjubkan dengan aktivitas selam di Togean.
+    </string>
+    <string name="tn25_kh1">
+        Pesona oleh keindahan ikan \'Red Lionfish\' yang berenang di perairan Togean.
+    </string>
+    <string name="tn25_kh2">
+        Jelajahi dunia bawah laut dengan melihat \'Jellyfish\' yang menawan di Togean.
+    </string>
+    <string name="tn25_kh3">
+        Saksikan ragam kehidupan laut, termasuk kepitning, yang menhuni perairan togean.
+    </string>
+    <string name="tn26_a1">
+        Keindahan alam yang menakjubkan di Taman Nasional Boganinani Wartabone: Air Terjun Lombongok.
+    </string>
+    <string name="tn26_a2">
+        Saat alam mempersembahkan keindahan dengan air yang mengucur di Taman Nasional Boganinani
+        Wartabone.
+    </string>
+    <string name="tn26_a3">
+        Jelajahi keajaiban alam Taman Nasional Boganinani Wartabone dengan pemandangan yang memukau.
+    </string>
+    <string name="tn26_kh1">
+        Anoa, kekayaan Taman Nasional Boganinani Wartabone yang langka.
+    </string>
+    <string name="tn26_kh2">
+        Babirusa, penjaga hutan yang unik di alam liar Taman Nasional Boganinani Wartabone.
+    </string>
+    <string name="tn26_kh3">
+        Maleo Bocos, salah satu burung eksotis yang menghiasi Taman Nasional Boganinani Wartabone.
+    </string>
+    <string name="tn27_a1">
+        Nikmati sensasi berenang di perairan biru jernih Taman Nasional Bunaken.
+    </string>
+    <string name="tn27_a2">
+        Jelajahi keindahan bawah laut dengan snorkeling di samping terumbu karang yang spektakuler.
+    </string>
+    <string name="tn27_a3">
+        Temukan dunia bawah laut yang memukau dengan menyelam di lokasi-lokasi terbaik Bunaken.
+    </string>
+    <string name="tn27_a4">
+        Saksikan kecantikan terumbu karang yang beragam dengan tur mengelilingi terumbu.
+    </string>
+    <string name="tn27_a5">
+        Jelajahi keindahan hutan mangrove yang eksotis di Taman Nasional Bunaken.
+    </string>
+    <string name="tn27_kh1">
+        Penyu hijau yang menawan, salah satu dari banyak keajaiban bawah laut di Taman Nasional
+        Bunaken.
+    </string>
+    <string name="tn27_kh2">
+        Jelajahi kekayaan hayati dengan menemukan makhluk menarik seperti scorpionfish lepu tembaga.
+    </string>
+    <string name="tn27_kh3">
+        Dugong, ikon laut Taman Nasional Bunaken yang langka dan megah, menjelajahi perairan
+        kristal bersama kita.
+    </string>
+    <string name="tn27_kh4">
+        Misteri bawah laut terungkap saat coral reef snake berluncur di antara terumbu karang yang
+        berwarna-warni.
+    </string>
+    <string name="tn28_a1">
+        Meluncur bersama angin di perairan Ujung Kulon yang menawan.
+    </string>
+    <string name="tn28_a2">
+        Gelombang besar dan aksi seru di Pantai Panaitan untuk para penggemar surfing.
+    </string>
+    <string name="tn28_a3">
+        Para penyelam bersiap untuk menyelinap ke kedalaman perairan di sekitar lepas pantai Ujung
+        Kulon.
+    </string>
+    <string name="tn28_kh1">
+        Temui owa Jawa yang langka, salah satu primata asli Indonesia di Taman Nasional Ujung Kulon.
+    </string>
+    <string name="tn28_kh2">
+        Lindungi badak Jawa, salah satu spesies terancam punah yang masih bertahan di sini.
+    </string>
+    <string name="tn28_kh3">
+        Saksikan kawanan banteng berlarian bebas di habitat alami mereka di Ujung Kulon.
+    </string>
+    <string name="tn29_a1">
+        Mengalami momen istimewa dengan tukik muda di penangkaran kami.
+    </string>
+    <string name="tn29_a2">
+        Terjun ke dalam kedalaman laut Kepulauan Seribu untuk menyaksikan kehidupan bawah laut yang
+        memukau.
+    </string>
+    <string name="tn29_a3">
+        Terhubung dengan dunia bawah laut yang indah melalui snorkeling di perairan Kepulauan
+        Seribu.
+    </string>
+    <string name="tn29_kh1">
+        Warna-warni kehidupan bawah laut dengan clownfish dan teman-temannya.
+    </string>
+    <string name="tn29_kh2">
+        Mata tajam eang yang menjelajahi langit kepulauan Seribu.
+    </string>
+    <string name="tn29_kh3">
+        Penyu sisik yang kuat melintasi perairan dan menunjukkan keindahan alam bawah laut.
+    </string>
+    <string name="tn30_a1">
+        Nikmati keindahan alam Gunung Halimun Salak dengan berkemah di tengah hutan yang asri.
+    </string>
+    <string name="tn30_a2">
+        Hibur diri Anda dengan live music sambil menikmati malam di alam terbuka.
+    </string>
+    <string name="tn30_a3">
+        Jelajahi keindahan alam dan temukan curug seribu yang menakjubkan dalam petualangan Anda
+        di sini.
+    </string>
+    <string name="tn30_a4">
+        Nikmati trekking menantang melintasi hutan lebat yang mengagumkan.
+    </string>
+    <string name="tn30_kh1">
+        Jejak harimau tutul di antara pepohonan, salah satu dari banyak keajaiban Taman Nasional
+        Gunung Halimun Salak.
+    </string>
+    <string name="tn30_kh2">
+        Saksikan owa jawa yang langka dalam habitat alaminya di sini.
+    </string>
+    <string name="tn30_kh3">
+        Anggrek hutan yang cantik adalah salah satu dari banyak spesies yang hidup di hutan Gunung
+        Halimun Salak.
+    </string>
+    <string name="tn31_a1">
+        Pendakian ke puncak Gunung Gede akan melewati hutan lumut yang lebat. Lumut resam,
+        Doranopteris, Usnea akan membawa pendaki gunung seolah-olah berada di negeri peri. Di
+        puncak Gunung Gede, hamparan Cantigi gunung akan menyambut para pendaki. Dan pesona alam
+        Gede Pangrango ada di hamparan bunga Edelweis,yang memikat para pendaki.
+    </string>
+    <string name="tn31_a2">
+        Nikmati ketenangan danau Situgunung di Taman Nasional Gunung Gede Pangrango. Suasana alam
+        yang menenangkan untuk bersantai dan menikmati pemandangan indah.
+    </string>
+    <string name="tn31_a3">
+        Terjunlah ke dalam petualangan di Taman Nasional Gunung Gede Pangrango dengan mengunjungi
+        Curug Luhur. Air terjun yang memukau dan suasana alam yang segar untuk menikmati keindahan
+        alam.
+    </string>
+    <string name="tn31_a4">
+        Temukan kenyamanan alam di Bumi Perkemahan Baru Bolang, Taman Nasional Gunung Gede
+        Pangrango. Pengalaman berkemah yang menyenangkan di tengah hutan yang asri.
+    </string>
+    <string name="tn31_a5">
+        Menjelajahi ketinggian hutan dengan Canopy Trail Ciwalen di Taman Nasional Gunung Gede
+        Pangrango. Pandangan spektakuler yang menghadirkan keajaiban alam.
+    </string>
+    <string name="tn31_kh1">
+        Lihatlah keunikan alam Taman Nasional Gunung Gede Pangrango dengan katak pohon Jawa yang
+        berpadu dengan lingkungan hijau.
+    </string>
+    <string name="tn31_kh2">
+        Kompleks Gunung Gede Pangrango menjadi medan perburuan bagi kucing besar Macan Jawa. Ada
+        dua wujud Macan Jawa di rimba raya: macan kumbang dan macan tutul, yang terlihat di gambar.
+    </string>
+    <string name="tn31_kh3">
+        Di antara rimbunnya tajuk hutan, Owa Jawa (Hylobates moloch) kadang berkelebat dari pohon
+        ke pohon.
+    </string>
+    <string name="tn31_kh4">
+        Saksikan keindahan tumbuhan endemik, rafesia Rochussenii, yang tumbuh di Taman Nasional
+        Gunung Gede Pangrango.
+    </string>
+    <string name="tn31_kh5">
+        Kala pagi menjelang, semburat matahari pagi berpadu dengan embun di pucuk Cantigi dan
+        Edelweis, yang akan meninggalkan kenangan bagi siapa saja untuk kembali ke Gunung Gede
+        Pangrango.
+    </string>
+    <string name="tn32_a1">
+        Menikmati petualangan alam di Taman Nasional Gunung Ciremai dengan berjalan kaki melewati
+        jalan setapak yang menantang.
+    </string>
+    <string name="tn32_a2">
+        Segarnya percikan air terjun yang berada di kaki lembah Gunung Ciremai.
+    </string>
+    <string name="tn32_a3">
+        Berenang di alam bersama ikan dewa yang dikramatkan masyarakat kuningan.
+    </string>
+    <string name="tn32_kh1">
+        Black panther menjelajahi tanah tersembunyi, misterius dalam alam ini.
+    </string>
+    <string name="tn32_kh2">
+        Kukang meloncat riang di bawah sinar matahari di taman nasional Gunung Ciremai.
+    </string>
+    <string name="tn32_kh3">
+        Keindahan bunga Pukul yang tak terlupakan di Tmanan Nasional Gunung Ciremai.
+    </string>
+    <string name="tn32_kh4">
+        Edelweis menghiasi Taman Nasional Gunung Ciremai dengan kecantikannya yang khas.
+    </string>
+    <string name="tn33_a1">
+        Terumbu karang yang memikat dan kehidupan laut yang berwarna-warni menanti untuk
+        dieksplorasi di bawah permukaan biru.
+    </string>
+    <string name="tn33_a2">
+        Cicipi kelezatan masakan lokal yang autentik, menggoda selera di Karimun Jawa.
+    </string>
+    <string name="tn33_a3">
+        Menyelam ke kedalaman laut yang penuh misteri dan menemukan dunia bawah laut yang
+        spektakuler.
+    </string>
+    <string name="tn33_kh1">
+        Kerang di Taman Nasional Karimun Jawa, diam-diam menyaring misteri laut.
+    </string>
+    <string name="tn33_kh2">
+        Seekor ikan badut yang bermain-main mempercantik perairan Taman Nasional Karimun Jawa.
+    </string>
+    <string name="tn33_kh3">
+        Penyu laut yang tangguh, bukti dari upaya konservasi laut di Karimun Jawa.
+    </string>
+    <string name="tn33_kh4">
+        Burung camar melayang di atas, penjaga pantai Karimun Jawa.
+    </string>
+    <string name="tn33_kh5">
+        Timun laut yang sederhana, berkontribusi secara diam-diam pada keseimbangan laut di Karimun
+        Jawa.
+    </string>
+    <string name="tn34_a1">
+        Bersenang-senang di bawah bintang-bintang, sambut pagi di kaki Gunung Merbabu dengan
+        berkemah.
+    </string>
+    <string name="tn34_a2">
+        Jelajahi kebudayaan lokal yang kaya dengan mendalami kehidupan sehari-hari penduduk sekitar.
+    </string>
+    <string name="tn34_a3">
+        Tantang diri Anda dengan perjalanan mendaki yang menantang melalui puncak-puncak megah
+        Gunung Merbabu.
+    </string>
+    <string name="tn34_kh1">
+        Surili dengan ekspresi lucunya adalah salah satu dari banyak makhluk menggemaskan yang
+        dapat ditemukan di Gunung Merbabu.
+    </string>
+    <string name="tn34_kh2">
+        Bertemu dengan komunitas monyet yang lincah saat menjelajahi keindahan alam Gunung Merbabu.
+    </string>
+    <string name="tn34_kh3">
+        Tidak hanya makhluk berbulu, Gunung Merbabu juga melindungi tanaman-tanaman seperti
+        Waldsteiniea yang eksotis.
+    </string>
+    <string name="tn35_a1">
+        Petualangan seru dengan mobil offroad di lereng Gunung Merapi yang menantang.
+    </string>
+    <string name="tn35_a2">
+        Jelajahi keanekaragaman burung yang menakjubkan di Taman Nasional Gunung Merapi.
+    </string>
+    <string name="tn35_a3">
+        Bersepeda di sekitar alam indah Gunung Merapi untuk pengalaman menyegarkan dan berenergi.
+    </string>
+    <string name="tn35_kh1">
+        Elang Jawa, sang penguasa langit Gunung Merapi, terbang dengan gagahnya di atas lereng
+        gunung.
+    </string>
+    <string name="tn35_kh2">
+        Saksikan elang ular Bido, predator ulung yang menguasai langit Gunung Merapi.
+    </string>
+    <string name="tn35_kh3">
+        Rasakan manisnya madu Sriganti, hasil alam dari Gunung Merapi yang lezat dan menyegarkan.
+    </string>
+    <string name="tn35_kh4">
+        Bunga Vanda Tricolor yang eksotis, sebuah pesona alami Gunung Merapi yang menghiasi
+        lerengnya.
+    </string>
+    <string name="tn35_kh5">
+        Walik Kepala Ungu, salah satu spesies kadal yang unik, berkeliaran di habitat aslinya di
+        sekitar Gunung Merapi.
+    </string>
+    <string name="tn36_a1">
+        Saksikan kecantikan burung-burung eksotis yang berkumpul di kaki gunung.
+    </string>
+    <string name="tn36_a2">
+        Telusuri jalur pendakian yang menantang, temukan pemandangan megah di setiap langkah.
+    </string>
+    <string name="tn36_a3">
+        Jelajahi keindahan alam dengan nyaman naik kuda, mengarungi lanskap yang menakjubkan.
+    </string>
+    <string name="tn36_kh1">
+        Pandangan tinggi elang Jawa yang mengawasi wilayahnya di Gunung Bromo Tengger Semeru.
+    </string>
+    <string name="tn36_kh2">
+        Jelarang, makhluk pohon yang bermain-main dengan leluasa di tengah hutan.
+    </string>
+    <string name="tn36_kh3">
+        Sapa kelompok lutung Jawa yang ceria bermain di antara pepohonan.
+    </string>
+    <string name="tn36_kh4">
+        Pesona macan tutul panthera pardus melas yang menjelajah di malam hari.
+    </string>
+    <string name="tn36_kh5">
+        Momen langka menangkap cekakak batu jantan lacedo pulchella dalam aksi di alam liar.
+    </string>
+    <string name="tn37_a1">
+        Menikmati ombak yang menyenangkan dengan bodyboard di pantai, Taman Nasional Meru Betiri.
+        Sensasi menyusuri air laut yang mengasyikkan untuk pengalaman liburan yang seru
+    </string>
+    <string name="tn37_a2">
+        Menyantai dengan berperahu kano di Taman Nasional Meru Betiri. Menjelajahi perairan dan
+        menikmati keindahan alam.
+    </string>
+    <string name="tn37_a3">
+        Para wisatawan bisa berbagi kasih dengan memendam telur penyu di penangkaran. Saat
+        menetas, tukik-tukik akan bertebaran di penangkaran, lalu dirawat. Setelah siap, para tukik
+        akan dilepaskan kembali di pantai Sukamade.
+    </string>
+    <string name="tn37_a4">
+        Pamor Sukamade menjadikan pantai ini tercakup dalam destinasi triangle diamond yang
+        dipromosikan oleh pemerintah Kabupaten Banyuwangi dan Balai Taman Nasional Meru Betiri.
+    </string>
+    <string name="tn37_a5">
+        Keindahan pantai Bandelit yang terlewatkan di sisi timur pulau Jawa
+    </string>
+    <string name="tn37_kh1">
+        Meru Betiri mengemban amanah untuk melestarikan satwa penyu laut. Di tengah keriuhan Jawa
+        yang padat, Meru Betiri mengajak kembali berpaling kepada kesunyian dalam melestarikan
+        penyu laut.
+    </string>
+    <string name="tn37_kh2">
+        Macan tutul, salah satu predator yang menjadi bagian penting dari ekosistem hutan di sini.
+    </string>
+    <string name="tn37_kh3">
+        Belantara Meru Betiri menaungi burung pemangsa endemik Jawa: Elang Jawa (Nisaetus bartelsi).
+    </string>
+    <string name="tn37_kh4">
+        Amati tingkah lucu kera abu-abu yang hidup bebas di Taman Nasional Meru Betiri. Penghuni
+        ceria hutan yang menyenangkan dalam perjalananmu.
+    </string>
+    <string name="tn37_kh5">
+        Salah satu tumbuhan fenomenal, Padmosari(Rafflesia zollingeriana) masih bisa dijumpai oleh
+        khalayak di di kawasan konservasi ini.
+    </string>
+    <string name="tn38_a1">
+        Menjelajahi keindahan danau dengan aktivitas kayak di Taman Nasional Gunung Gede Pangrango.
+        Petualangan air yang seru untuk semua orang.
+    </string>
+    <string name="tn38_a2">
+        Menjelajahi kehidupan bawah laut yang memukau dengan snorkeling di pantai Taman Nasional
+        Baluran. Temukan keajaiban dunia bawah air yang indah.
+    </string>
+    <string name="tn38_a3">
+        Nikmati perjalanan yang menyenangkan dengan naik kuda di Taman Nasional Baluran. Rasakan
+        kesejukan alam savana yang luas.
+    </string>
+    <string name="tn38_a4">
+        Saksikan panorama savana Bekol yang menakjubkan di Taman Nasional Baluran. Keindahan alam
+        yang luas dan pemandangan savana yang menawan.
+    </string>
+    <string name="tn38_a5">
+        Rileks dan nikmati keindahan Pantai Bama di Taman Nasional Baluran. Pasir putih dan air
+        jernih menunggu untuk menyambutmu.
+    </string>
+    <string name="tn38_kh1">
+        Satwa lain yang mudah dilihat adalah burung Merak hijau (Pavo muticus), terutama saat musim
+        kawin pada Juli sampai November. Sebelum fajar terbit, lengkingan merak jantan memecah
+        kesunyian, saling bersahutan mengundang para betina.
+    </string>
+    <string name="tn38_kh2">
+        Lihatlah kecantikan alam liar Taman Nasional Baluran melalui keberadaan ayam hutan hijau.
+        Mereka adalah bagian tak terpisahkan dari kekayaan hayati hutan di sini.
+    </string>
+    <string name="tn38_kh3">
+        Tupai-tupai yang gemas bermain di Taman Nasional Baluran. Hewan ceria ini selalu siap
+        menyapa dengan keimutan mereka.
+    </string>
+    <string name="tn38_kh4">
+        Ragam satwa liar dapat dilihat merumput di savana Bekol, salah satunya adalah Kerbau liar
+        (Bubalus bubalis). Kerbau mudah dijumpai di kantung-kantung air yang menyebar di beberapa
+        lokasi di sekitar savana.
+    </string>
+    <string name="tn38_kh5">
+        Ragam satwa liar dapat dilihat merumput di savana Bekol, salah satunya adalah Rusa
+        (Cervus timorensis). Rusa mudah dijumpai di kantung-kantung air yang menyebar di beberapa
+        lokasi di sekitar savana.
+    </string>
+    <string name="tn39_a1">
+        Nikmati deburan ombak yang menyegarkan saat Anda berenang di perairan Alas Purwo.
+    </string>
+    <string name="tn39_a2">
+        Rasakan keunikan budaya lokal yang kaya di tengah alam yang indah.
+    </string>
+    <string name="tn39_a3">
+        Para peselancar antre berebut ombak bagus di lepas pantai Plengkung. Sembari menyentuh
+        dinding ombak, peselancar menunggangi sekeping papan. Sensasi ini meninggalkan kesan
+        mendalam bagi penunggang gelombang.
+    </string>
+    <string name="tn39_kh1">
+        Kerbau yang gagah berdiri di taman nasional Alas Purwo, menggambarkan kekuatan alam.
+    </string>
+    <string name="tn39_kh2">
+        Lihatlah kera ekor panjang bermain-main di pepohonan, menambah kehidupan liar taman
+        nasional ini.
+    </string>
+    <string name="tn39_kh3">
+        Sapi-sapi yang berkeliaran di padang rumput luas, menciptakan pemandangan yang damai di
+        Taman Nasional Alas Purwo.
+    </string>
+    <string name="tn39_kh4">
+        Merak yang anggun dengan bulu-bulu indahnya, menghiasi langit-langit alam dan memberikan
+        pesona tersendiri.
+    </string>
+    <string name="tn39_kh5">
+        Rusa-rusa yang berseliweran, menjadi bagian tak terpisahkan dari kekayaan fauna Alas Purwo.
+    </string>
+    <string name="tn40_a1">
+        Jelajahi keindahan hutan lebat yang tak tertandingi dan saksikan alam liar dalam setiap
+        langkahmu.
+    </string>
+    <string name="tn40_a2">
+        Berjemur di pasir putih Pantai Teluk Terima sambil mendengarkan deburan ombak yang
+        menenangkan.
+    </string>
+    <string name="tn40_a3">
+        Saksikan keindahan budaya dan spiritualitas Bali dalam upacara keagamaan yang penuh makna.
+    </string>
+    <string name="tn40_kh1">
+        Saksikan kecantikan ikan badut yang bersembunyi di terumbu karang.
+    </string>
+    <string name="tn40_kh2">
+        Melihat betapa eksotisnya burung curik Bali yang langka ini di habitat aslinya.
+    </string>
+    <string name="tn40_kh3">
+        Saksikan keelokan burung jalak Bali yang mempesona dalam alam liar Bali Barat.
+    </string>
+    <string name="tn40_kh4">
+        Jelajahi keindahan taman nasional dengan matahari terbenam sambil mencari burung Kingfisher
+        berpunggung merah yang cantik.
+    </string>
+    <string name="tn40_kh5">
+        Berpetualanglah dan temui babi hutan yang berkeliaran bebas di dalam hutan Bali Barat.
+    </string>
+    <string name="tn41_a1">
+        Camping yang tak terlupakan di bawah langit Gunung Rinjani yang berbintang, bersama dengan
+        suara alam yang menenangkan.
+    </string>
+    <string name="tn41_a2">
+        Eksplorasi petualangan di puncak gunung yang menawarkan pemandangan spektakuler Taman
+        Nasional Gunung Rinjani.
+    </string>
+    <string name="tn41_a3">
+        Cobalah keberuntunganmu dalam memancing di sungai yang tenang, di tengah keindahan alam
+        Gunung Rinjani.
+    </string>
+    <string name="tn41_kh1">
+        Lihatlah keindahan celepuk Rinjani dengan sayap-sayap megahnya yang menghiasi langit taman
+        nasional ini.
+    </string>
+    <string name="tn41_kh2">
+        Elang menjulang tinggi di langit gunung Rinjani, menjadi bagian tak terpisahkan dari
+        ekosistemnya.
+    </string>
+    <string name="tn41_kh3">
+        Rusa-rusa liar berkelana di hutan-hutan lebat Taman Nasional Gunung Rinjani, menciptakan
+        harmoni dalam keanekaragaman hayati.
+    </string>
+    <string name="tn41_kh4">
+        Salah satu hewan yang dilindinggi trenggiling juga dapat dilihat pada taman nasional ini.
+    </string>
+    <string name="tn42_a1">
+        Mendaki gunung, menemukan keindahan alam, dan menyatu dengan alam liar di Taman Nasional
+        Komodo.
+    </string>
+    <string name="tn42_a2">
+        Mengamati Komodo, reptil raksasa yang mengagumkan, dalam habitat alami mereka.
+    </string>
+    <string name="tn42_a3">
+        Berpetualang di bawah laut, menjelajahi dunia bawah laut yang spektakuler di sekitar Taman
+        Nasional Komodo.
+    </string>
+    <string name="tn42_kh1">
+        Menyaksikan  Komodo menjadi menu wajib bagi para pengunjung, yang dapat dilihat di Loh
+        Liang, Pulau Komodo, dan Loh Buaya, Pulau Rinca.
+    </string>
+    <string name="tn42_kh2">
+        Mengagumkan gosong kaki merah, tempat berjemurnya burung-burung indah di pagi hari.
+    </string>
+    <string name="tn42_kh3">
+        Keelokan taman ini terpancar lewat kehadiran kakatua yang ceria dan berwarna-warni.
+    </string>
+    <string name="tn42_kh4">
+        Dalam air yang tenang, saksikan kelucuan clownfish bermain di terumbu karang yang mempesona.
+    </string>
+    <string name="tn43_a1">
+        Berikan diri Anda kesempatan untuk bersatu dengan alam dengan berkemah di Taman Nasional
+        Matalawa.
+    </string>
+    <string name="tn43_a2">
+        Tangkap momen indah dari keanekaragaman alam yang menakjubkan di Taman Nasional Matalawa.
+    </string>
+    <string name="tn43_a3">
+        Saksikan kehidupan liar dan keanekaragaman spesies burung yang menarik di sini.
+    </string>
+    <string name="tn43_kh1">
+        Sapa pagi dengan melihat kakatua eksotis berkumpul di Taman Nasional Matalawa.
+    </string>
+    <string name="tn43_kh2">
+        Julang Sumba yang langka adalah salah satu dari banyak spesies burung yang memikat hati
+        di sini.
+    </string>
+    <string name="tn43_kh3">
+        Alap-alap sapi menjelajahi langit biru, menambah pesona alam yang beragam di Taman
+        Nasional Matalawa.
+    </string>
+    <string name="tn43_kh4">
+        Keindahan anggrek Eulophia exelta yang mempesona akan mengisi perjalanan Anda dengan
+        warna-warni alam.
+    </string>
+    <string name="tn43_kh5">
+        Lihatlah keindahan anggrek Eulophia spectablis yang memukau, salah satu dari banyak spesies
+        anggrek di Taman Nasional Matalawa.
+    </string>
+    <string name="tn45_a1">
+        Menyaksikan keindahan alam yang memukau di Taman Nasional Kalimutu.
+    </string>
+    <string name="tn45_a2">
+        Jelajahi puncak-puncak gunung yang menakjubkan dengan aktivitas hiking di Kalimutu.
+    </string>
+    <string name="tn45_a3">
+        Rasakan kehidupan dan budaya lokal melalui berbagai kegiatan adat yang unik di sini.
+    </string>
+    <string name="tn45_kh1">
+        Elang Flores, salah satu dari banyak hewan langka yang mendominasi langit di Taman
+        Nasional Kalimutu.
+    </string>
+    <string name="tn45_kh2">
+        Burung Garugiwa, dengan warna bulu yang mencolok, menghiasi pepohonan di sekitar taman
+        nasional ini.
+    </string>
+    <string name="tn45_kh3">
+        Monyet-monyet yang ceria dan lincah, selalu siap menyambut para pengunjung taman nasional
+        dengan tingkah kocak mereka.
+    </string>
+    <string name="tn46_a1">
+        Kecepatan dan petualangan di sungai dengan arum jeram yang mendebarkan.
+    </string>
+    <string name="tn46_a2">
+        Eksplorasi puncak Gunung Tambora dan nikmati panorama spektakuler.
+    </string>
+    <string name="tn46_a3">
+        Nikmati sensasi berkendara di medan yang menantang dengan motor di sekitar Gunung Tambora.
+    </string>
+    <string name="tn46_kh1">
+        Terpesona dengan elang bondol yang menguasai langit Gunung Tambora.
+    </string>
+    <string name="tn46_kh2">
+        Saksikan keindahan elang Flores yang menjelajahi wilayah alami mereka di taman nasional ini.
+    </string>
+    <string name="tn46_kh3">
+        Nuri pipi merah yang mempercantik langit dengan warna mereka.
+    </string>
+    <string name="tn46_kh4">
+        Telusuri keanekaragaman hayati dengan menemukan anggrek Vanda Lombokensis yang langka
+        dan cantik.
+    </string>
+    <string name="tn47_a1">
+        Tantang diri Anda dengan aktivitas arum jeram di Taman Nasional Aketajawe Lalobata.
+    </string>
+    <string name="tn47_a2">
+        Keseruan berpetualang di Aketajawe Lalobata dengan kegiatan ou1tbond yang menguji keberanian.
+    </string>
+    <string name="tn47_a3">
+        Jelajahi keindahan alam Aketajawe Lalobata melalui pendakian yang mendebarkan.
+    </string>
+    <string name="tn47_kh1">
+        Saksikan keindahan burung bidadari Halmahera dengan warna yang memikat di Taman Nasional
+        Aketajawe Lalobata.
+    </string>
+    <string name="tn47_kh2">
+        Brinji emas Halmahera, salah satu spesies unik yang menghiasi kekayaan hayati taman
+        nasional ini.
+    </string>
+    <string name="tn47_kh3">
+        Emoia Kordoana, salah satu wakil kecil dari keanekaragaman reptil di Taman Nasional
+        Aketajawe Lalobata.
+    </string>
+    <string name="tn47_kh4">
+        Suaranya yang khas membuat Litoria Infrafrenata menjadi bagian dari kekayaan amfibi yang
+        patut disaksikan di sini.
+    </string>
+    <string name="tn48_a1">
+        Menunjukkan jiwa petualanganmu dengan mengunjungi Air Terjun Wayansela di Taman Nasional
+        Manusela. Suara gemericik air yang menenangkan dan pemandangan yang spektakuler akan
+        memikatmu.
+    </string>
+    <string name="tn48_a2">
+        Meraih puncak petualangan dengan pendakian ke Gunung Binaiya di Taman Nasional Manusela.
+        Lihatlah keindahan alam dari ketinggian yang mengagumkan.
+    </string>
+    <string name="tn48_a3">
+        Istirahatkan diri di Penginapan Ora, tempat nyaman untuk menghabiskan waktu di tengah
+        keindahan alam Taman Nasional Manusela.
+    </string>
+    <string name="tn48_a4">
+        Mendapatkan pengalaman budaya yang luar biasa dengan menikmati Tarian Cakalele di Taman
+        Nasional Manusela. Gerakan yang energetik dan cerita tradisional yang menawan.
+    </string>
+    <string name="tn48_a5">
+        Menjelajahi keajaiban ekosistem mangrove dengan aktivitas tracking di Taman Nasional
+        Manusela. Saksikan kehidupan unik di hutan bakau yang menakjubkan.
+    </string>
+    <string name="tn48_kh1">
+        Kekayaan spesies burung terpampang jelas pada pintu gerbang kawasan taman nasional, yang
+        dihiasi gambar beragam burung. Tak salah jika Balai Taman Nasional Manusela memakai burung
+        Kakatua seram (Cacatua moluccensis) sebagai maskotnya.
+    </string>
+    <string name="tn48_kh2">
+        Taman Nasional Manusela adalah rumah bagi kus-kus. Saksikan mereka beraktivitas di hutan
+        yang megah ini.
+    </string>
+    <string name="tn48_kh3">
+        Warna-warni nuri kepala hitam yang hidup bebas di Taman Nasional Manusela adalah daya tarik
+        utama. Mereka adalah bagian tak terpisahkan dari kekayaan hayati hutan.
+    </string>
+    <string name="tn48_kh4">
+        Tumbuhan yang unik dan langka, bulbophyllum sp, menambah pesona keanekaragaman hayati di
+        Taman Nasional Manusela. Keajaiban alam yang menyimpan keunikan tersendiri.
+    </string>
+    <string name="tn48_kh5">
+        Temukan keindahan thelasis sp, tanaman  yang tumbuh di Taman Nasional Manusela. Mereka
+        adalah bagian dari kekayaan alam yang menakjubkan.
+    </string>
+    <string name="tn49_a1">
+        Jejakkan kaki Anda melintasi taman nasional dan rasakan petualangan di Teluk Cenderawasih.
+    </string>
+    <string name="tn49_a2">
+        Terjun ke bawah dan temukan keindahan bawah laut yang memukau di Taman Nasional Teluk
+        Cenderawasih.
+    </string>
+    <string name="tn49_a3">
+        Jelajahi kekayaan budaya dan tradisi yang kental di tengah keindahan alam Taman Nasional
+        Teluk Cenderawasih.
+    </string>
+    <string name="tn49_kh1">
+        Kerjapan sayap dan kibaran ekor Cenderawasih jantan untuk memikat para betina. Ritual ini
+        menjadi sajian bagi para wisatawan di Barawai.
+    </string>
+    <string name="tn49_kh2">
+        Hiu paus di kedalaman air yang jernih. Saksikan pertemuan menakjubkan makhluk laut seukuran
+        minibus disini.
+    </string>
+    <string name="tn49_kh3">
+        Penyu hijau menghabiskan waktu sepanjang hidupnya di kedalaman laut. Sang betina akan
+        mendarat di pesisir Teluk Cenderawasih saat bertelur.
+    </string>
+    <string name="tn49_kh4">
+        Keindahan ikan clownfish yang menyegarkan di perairan Teluk Cenderawasih.
+    </string>
+    <string name="tn50_a1">
+        Rasakan dinginnya petualangan di tengah lingkungan bersalju yang memukau.
+    </string>
+    <string name="tn50_a2">
+        Taklukkan puncak-puncak megah dan rasakan pencapaian yang luar biasa.
+    </string>
+    <string name="tn50_a3">
+        Jelajahi kekayaan budaya Lorentz dan saksikan tradisi-tradisi unik yang menghiasi
+        kawasan ini.
+    </string>
+    <string name="tn50_kh1">
+        Beruntung melihat beruang hitam yang langka saat menjelajahi Taman Nasional Lorentz.
+    </string>
+    <string name="tn50_kh2">
+        Saksikan keindahan burung isap madu dalam habitat aslinya di Taman Nasional Lorentz.
+    </string>
+    <string name="tn50_kh3">
+        Penemuan langka Goura Scheepmakeri, salah satu burung terindah di dunia, di Lorentz.
+    </string>
+    <string name="tn50_kh4">
+        Beragam spesies bebek menghiasi air sungai dan danau di Taman Nasional Lorentz.
+    </string>
+    <string name="tn51_a1">
+        Petualangan bersepeda seru di hutan belantara Wasur.
+    </string>
+    <string name="tn51_a2">
+        Saksikan keindahan upacara adat dan budaya suku Marori yang kaya.
+    </string>
+    <string name="tn51_a3">
+        Terlibat dalam pengalaman budaya yang memukau dengan tradisi \'men-gey\' suku Marori di
+        Wasur.
+    </string>
+    <string name="tn51_kh1">
+        Keindahan warna-warni cendrawasih dalam kehidupan liar taman nasional Wasur.
+    </string>
+    <string name="tn51_kh2">
+        Kakatua yang ceria dan warna-warni adalah salah satu pesona taman nasional Wasur.
+    </string>
+    <string name="tn51_kh3">
+        Kasuari, burung unik yang memperkaya keragaman hayati Wasur dengan langkah gagahnya.
+    </string>
+    <string name="tn52_a1">
+        Nikmati petualangan seru dengan menyusur sungai di Taman Nasional Zamrud.
+    </string>
+    <string name="tn52_a2">
+        Nikmati perjalanan cepat dengan speedboat di Taman Nasional Zamrud.
+    </string>
+    <string name="tn52_a3">
+        Rasakan petualangan di sungai dengan speedboat yang mengasyikkan di tengah hutan
+        gambut Zamrud.
+    </string>
+    <string name="tn52_kh1">
+        Saksikan kehidupan siamang, makhluk bersuara merdu di Taman Nasional Zamrud.
+    </string>
+    <string name="tn52_kh2">
+        Eksplorasi keanekaragaman dengan menemui tumbuhan kantung semar yang langka.
+    </string>
+    <string name="tn52_kh3">
+        Saksikan beragam spesies burung, termasuk White Crested Laughingthrush, di alam liar Zamrud.
+    </string>
+    <string name="tn53_a1">
+        Nikmati petualangan mendaki yang menantang di Taman Nasional Gandang Dwata.
+    </string>
+    <string name="tn53_a2">
+        Temukan momen-momen indah dan abadikan keindahan alam di Gandang Dwata.
+    </string>
+    <string name="tn53_a3">
+        Amati keragaman burung liar yang mempesona di Taman Nasional Gandang Dwata.
+    </string>
+    <string name="tn53_kh1">
+        Temukan beragam jenis makhluk di antara lingkungan yang kaya di Gandang Dwata.
+    </string>
+    <string name="tn53_kh2">
+        Saksikan keanekaragaman jamur yang tak terduga di Gandang Dwata.
+    </string>
+    <string name="tn53_kh3">
+        Jejakkan kaki di bawah hutan lichen yang misterius di Gandang Dwata.
+    </string>
+    <string name="tn53_kh4">
+        Eksplorasi keajaiban tumbuhan yang langka dan unik di Gandang Dwata.
+    </string>
+    <string name="tn54_a1">
+        Menyaksikan beragam jenis burung yang hidup di Gunung Maras.
+    </string>
+    <string name="tn54_a2">
+        Petualangan menyusuri sungai yang mengalir indah di tengah Gunung Maras.
+    </string>
+    <string name="tn54_a3">
+        Pemandangan menakjubkan dari Bukit Nenek, salah satu daya tarik alam Gunung Maras.
+    </string>
+    <string name="tn54_kh1">
+        Temui kehidupan liar yang mengagumkan, termasuk bajuku, di Gunung Maras.
+    </string>
+    <string name="tn54_kh2">
+        Gajah Sumatera, hewan megah penjaga keanekaragaman hayati Gunung Maras.
+    </string>
+    <string name="tn54_kh3">
+        Saksikan keragaman fauna Gunung Maras, termasuk rusa unicolor yang elok.
+    </string>
+    <string name="tn54_kh4">
+        Keindahan alam yang tak terlupakan dengan bunga raflesia yang langka di Gunung Maras.
+    </string>
+    <string name="ganti_bahasa">Mengubah bahasa ke Bahasa Indonesia</string>
+    <string name="klik_disini">Klik disini</string>
+    <string name="info_lanjut">Untuk informasi lebih lanjut</string>
+    <string name="download_app">Download Aplikasi Indonesia\'s FOLU Net Sink 2030</string>
+    <string name="pindai_target">Pindai Target untuk menampilkan AR</string>
+</resources>

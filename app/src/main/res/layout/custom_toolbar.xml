@@ -1,0 +1,52 @@
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/custom_toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_marginHorizontal="32dp"
+    android:background="@drawable/banner_home"
+    tools:background="@color/black">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:padding="16dp"
+        app:cardBackgroundColor="#3A3A3A"
+        app:cardCornerRadius="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Let's Explore"
+            android:fontFamily="@font/syne_bold"
+            android:textSize="28sp"
+            android:textColor="#FFFFFF"
+            android:layout_gravity="center" />
+
+        <ImageButton
+            android:layout_width="121dp"
+            android:layout_height="41dp"
+            android:src="@drawable/ic_lkhk"
+            android:layout_marginVertical="16dp"
+            android:scaleType="fitCenter"
+            android:background="#00000000"
+            android:id="@+id/left_icon"
+            android:layout_gravity="start|center_vertical"
+            android:layout_marginStart="16dp"
+            android:contentDescription="Back" />
+
+        <ImageButton
+            android:layout_width="121dp"
+            android:layout_height="41dp"
+            android:src="@drawable/ic_folunet"
+            android:layout_marginVertical="16dp"
+            android:scaleType="fitCenter"
+            android:background="#00000000"
+            android:id="@+id/right_icon"
+            android:layout_gravity="end|center_vertical"
+            android:layout_marginStart="16dp"
+            android:contentDescription="Back" />
+    </androidx.cardview.widget.CardView>
+
+</androidx.appcompat.widget.Toolbar>

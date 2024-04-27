@@ -1,0 +1,1870 @@
+<resources>
+    <string name="app_name">JEJAKKAKI</string>
+    <!-- TODO: Hapus atau ubah teks placeholder ini -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info">INFORMATION</string>
+    <string name="tumbuhan">PLANTS</string>
+    <string name="keanekaragaman_hayati">BIODIVERSITY</string>
+    <string name="hewan">ANIMAL \n&amp; \nPLANTS</string>
+    <string name="aktifitas">ACTIVITY</string>
+    <string name="rute">ROUTE</string>
+    <string name="taman_nasional">NATIONAL PARK</string>
+    <string name="lowcase_taman_nasional">National Park</string>
+    <string name="detail">Eager for an adventure while riding a Sumatran elephant? Let’s stepping
+        out our track,Tangkahan ecotourism which is located in, Batang Serangan Langkat, North
+        Sumatra. Known as the hidden paradise of North Sumatra, Tangkahan is a part of Gunung
+        Leuser National Park.</string>
+    <string name="taman_info1">Let’s stepping out our track,Tangkahan ecotourism which is located
+        in, Batang Serangan Langkat, North Sumatra. Known as the hidden
+        paradise of North Sumatra, Tangkahan is a part of Gunung Leuser National Park. The park has
+        a forest patrol team consisting elephants and their trainer, the Srati. Visitors can join
+        them when they are doing their joib. This real journey could take a few days in the depth
+        of the forest along Tangkahan to Bukit Lawang.
+    </string>
+    <string name="taman_info2">
+        The name of this national park is taken from the name of a river which flows inside the
+        park, Batang Gadis. The park is of importance for the wildlife living adjacent to the park.
+        They moved to the park because their habitat was destroyed by land clearing and fire.
+        The park is spaning along Bukit Barisan mountain and sits at the height of 300 – 2.145
+        meter above sea level. Mount Sorik Marapi is the highest peak.
+    </string>
+    <string name="taman_info3">
+        In 2004, the area was converted into a national park covering an area of 38.000 Hectares.
+        It was then expanded into 83.000 Hectares in 2009. This was the right action considering
+        that the area is like an emerald which is rich in tropical biodiversity of rainforest
+        Sumatra.
+    </string>
+    <string name="taman_info4">
+        Siberut National Park is among ten national parks in Indonesia acknowledged as Biosphere
+        Reserve. This parks sits in Mentawai Island, West Sumatera, or 155 Km away from Padang,
+        the capital city of West Sumatera province. Sixty percent of the park area is covered with
+        primary forest of Dipterocarpacear, mixed primary forest, swamp area, coastal area and
+        mangrove forest. The forest in this park is still pristine composting of big stems and
+        densed forest canopy reaching 60 meter height.
+    </string>
+    <string name="taman_info5">
+        Standing in Kerinci Seblat National Park, Kerinci summit is often shrouded by fog.
+        The mystery of this active mountain lures a lot of people. Sub-alpine covers the top of
+        Mount Kerinci.
+    </string>
+    <string name="taman_info6">
+        As the name suggests, Bukit Duabelas (12 main hils) are in the asylum area of 60,500
+        hectares in three districts: Sarolangun, Bungo Tebo and Batang. Nowadays it stretches from
+        the landscape to the unique natural scenery.
+    </string>
+    <string name="taman_info7">
+        Bukit Tigapuluh National Park spreads out on the steep hills just in the middle of the
+        lowland of Sumatera island. Geographically, this area is separated from the chain of Bukit
+        Barisan ridge which extends along the western part of Sumatera. Once you explores the park,
+        you will feel the high humidity of tropical air, yet it will make you sweating. Four types
+        of ecosystems form the landscape of Bukit Tigapuluh National Park; pristine forest,
+        logged-over area, bushes, rubber plantation and field.
+    </string>
+    <string name="taman_info89">
+        Berbak National Park, the largest wetland conservation area in Southeast Asia, stores the
+        largest carbon in the world. On the other hand, Sembilang National Park on Sumatra Island
+        is a haven for thousands of East Asian and Australian migratory birds, including peat
+        swamp forests and riparian forests.
+    </string>
+    <string name="taman_info10">
+        Located at the southern line of Bukit Barisan mountains, Bukit Barisan Selatan National
+        Park is a home for large mammals such as Sumatran tigers (Panthera tigris sumatrensis),
+        Sumatran elephants (Elephas maximus sumatranus) and Sumatran rhinos (Dicerorhinus
+        sumatrensis).
+    </string>
+    <string name="taman_info11">
+        Way Kambas National Park was drawn attention from the world after the birth of Andatu in
+        2012. This baby Sumatran Rhinoceros (Dicerorhinus sumatraensis). has given a triumph for
+        the park. A hard effort has delivered to support a semi-in-situ captive of Way Kambas’
+        Sumatran Rhino Sanctuary. Literally, Andatu stands for ‘Anugerah dari Tuhan’ meaning
+        Gift from God. Also, people may know Andatu as a baby from Andalas and Ratu, his parents.
+    </string>
+    <string name="taman_info12">
+        Gunung Palung National Park is the only Dipterocarpaceae tropical rain forest which is
+        considered to be the best and widest forest in Kalimantan island. This forest cover is a
+        chain of hills and significantly important as a water resource for the locals. The
+        topography of the park varies from lowland to highland. Two mountain summits stand in
+        the middle of the park.
+    </string>
+    <string name="taman_info13">
+        Bentarum National Park, located in West Kalimantan, is the largest conservation area in
+        the region. Known for its two different faces during the rainy and dry seasons, this
+        park includes Lake Sentarum and Betung Kerihun. This area offers a variety of ecosystems,
+        such as lowland forests, swamp forests, old secondary forests and Dipterocarpus forests.
+        The park is also home to 75 percent of Kalimantan\'s endemic plants, making it an important
+        heartland for Kalimantan\'s biodiversity.
+    </string>
+    <string name="taman_info14">
+        Bukit Baka - Bukit Raya National Park may sound a little unique. This park isa
+        combination of two national nature reserves of thetwo provinces, namely Bukit Baka Nature
+        Reserve in West Kalimantan, and Bukit Raya Nature Reserve in Central Kalimantan. The
+        biodiversity of Bukit Baka - Bukit Raya is also abundant: 817 plant species out of
+        139 families.
+    </string>
+    <string name="taman_info16">
+        Borneo Orangutan (Pongo pygmaeus) Rehabilitation Center in Camp Leaky has been the main
+        tourist attraction in Tanjung Puting National Park,Pangkalan Bun, Kotawaringin Barat,
+        Central Kalimantan. The research center was builtin the 1970s. The attraction here is
+        the feeding time of the only Asian great ape, the Orangutan.
+    </string>
+    <string name="taman_info17">
+        Sebangau National Park is a representative of swamp peat forest ecosystem di Central
+        Kalimantan that supports three watercatchment area; Sebangau, Kahayan, and Katingan.
+        The park maintains and cares of these catchment areas and supports the life of human and
+        wildlife. The local tribe, Dayak people rely their transportation mobility on the rivers
+        flowing in the park. They travel from one village to another, using traditional canoe as
+        their local transportation.
+    </string>
+    <string name="taman_info18">
+        Just like Betung Kerihun National Park, Kayan Mentarang National Park is also located
+        adjacent to the neighbouring country, Malaysia at two points ;Sarawak on the west and
+        Sabah the north. Located at the border of Indonesia and Malaysia serves this park as a
+        fort to the nation in term of sovereignty as well as the sustainability of its natural
+        resources. This conservation area witnessed the ancient civilization. It is shown by the
+        existence of trace of graves and stone-age tools at some of archaeological sites.
+    </string>
+    <string name="taman_info19">
+        Sangkima and Camp Kakap represent the showcase of natural cruising in Kutai National Park.
+        These places are well known by tourists.Sangkima invites visitors to penetrate the lowland
+        forest of Kalimantan. It is located just along the main road connecting Bontang to Sangata.
+        Sangkima can easily be reached from East Kutai District. In Sangkima, It is very likely
+        seeing the primate such as :Orangutan (Pongo pygmaeus), Beruk (Macaca nemestrina),
+        Long-tailed Macaque (Macaca fascicularis).
+    </string>
+    <string name="taman_info20">
+        A very distinctive karst landscape stands as natural sculptures in the Bantimurung
+        Bulusaraung National Park, Maros, South Sulawesi. No wonder it is often called as a
+        karst tower. Because, It is standing tall with sharp fractures. Karst formation in Maros
+        is recognized as the second largest karst landscape. The first is in southern China.
+    </string>
+    <string name="taman_info21">
+        Dozens taka, Bungin, and the islands forms the landscape of Taka Bonerate. String of
+        small islands, and the lagoon from the sand sediment, broken coral and shells form the
+        younger soils. The word of Taka Bonerate itself means reef on the sand. The region
+        once known as tiger atolls (tiger land) comprising of store barrier reef, fringing
+        reef (fringing reef) and ring reef (atoll).
+    </string>
+    <string name="taman_info22">
+        Stretching from the tip of South East Sulawesi, Rawa Aopa Watumohai National Park has
+        significant responsibility to protect the Wallacea wetland ecosystem. Measuring an area
+        of 105.194 hectares, the park is just like a giant water catchment for the island. As a
+        supporting life system, the park is acknowledged as the World Ramsar Site.
+    </string>
+    <string name="taman_info23">
+        Ranging at the heart of the World’s Coral Triangle, Wakatobi is visualized as a
+        miniature of an archipelago. In the bright sun,Wakatobi National Park which is lying in
+        Southeast Sulawesi, invites travelers to drop their anchors from one to another Pier.
+        Wakatobi originates from the name of islands: Wangi–Wangi, Kaledupa, Tomia, and Binongko.
+    </string>
+    <string name="taman_info24">
+        The charming of biodiveristyendemic to Wallacea is blended with the cultural heritage
+        of Lembah Besoa. The ancient megatlihicum sites make the park’s uniqueness as the is
+        the only national park in Indonesia which stores the sites. Lore Lindu is also blessed
+        with beautiful landscape. The park which covers 217 hectares of conservation area are
+        vary in height ; from the lowest of 300 meters above sea level to the highest of 2.610
+        meters above sea level where Mount Tokosa seated.
+    </string>
+    <string name="taman_info25">
+        Kepulauan Togean is a national park which is located in Central Sulawesi. This national
+        park is composed of small islands that store the typical biodiversity of marine area.
+        Some endemic species found in park. Hidden in the Gulf of Tomini, Kepulauan Togean
+        National Park is a paradise of small islands surrounded by reef coral. This park is
+        included in the World Coral Triangle or the Coral Triangle, so this national park is
+        very important to be proteced.
+    </string>
+    <string name="taman_info26">
+        North Sulawesi is not only having Bunaken National Park. Three hours from the city of
+        Manado, precisely in Kotamobagu, there is also a conservation area known as Bogani Nani
+        Warta Bone National Park. The national park protects some endangered wildlife, such as
+        Maleo birds (Macrocephalon maleo) and low land Anoa.
+    </string>
+    <string name="taman_info27">
+        Bunaken is known worldwide as a paradise for diving lovers. The island has also been one
+        of the favourite marine tourist destinations in the country. Bunaken island is a part of
+        Bunaken National Park, located in Manado, North Sulawesi. Manado Tua, Mantehage, Siladen,
+        and Nain are other main islands landscaping the park. Bunaken is easily accessed from
+        Manado. It takes 45 minutes only by boat.
+    </string>
+    <string name="taman_info28">
+        This National park which is lying on the western edge of Java is very challenging to see
+        the Javan rhino at first hand (Rhinoceros sondaicus). Although they only have limited
+        spread areas in Cikeusik and Citadahan, but it is always a challenge to watch one-horned
+        animals from Ranggon, a 5 – 7 meters height of bamboo stage.
+    </string>
+    <string name="taman_info29">
+        Oasis in the desert. That nickname is appropriate for Kepulauan Seribu National Park. A
+        natural white sandy islands and a great underwater world offer a piece of paradise for
+        travelers. Facts that the location is near to Jakarta, Kepulauan Seribu deserves to make a
+        perfect vacation on the weekend. Underwater beauty awaits you to enjoy.
+    </string>
+    <string name="taman_info30">
+        This national park is asserted itself as the largest tropical mountain rain forest
+        remaining on the island of Java. This area is covered with a wallowed germplasms of
+        natural forest. The dense forest of Halimun is inhabited by rare primates: Javan gibbon
+        (Hylobates moloch) and Surili (Presbytis comata). Halimun Salak is also a habitat for
+        endangered and protected species, the Javan Hawk Eagle (Nisaetus bartelsi) and the Javan
+        tiger (Panthera pardus melas).
+    </string>
+    <string name="taman_info31">
+        Who does not know Gunung Gede Pangrango National Park? The ease of its accessibility make
+        it easier for visitors from Jakarta, Bogor, Sukabumi coming to the park. An impression of
+        romantic voyage generally said by visitors after spending their time exploring the park.
+    </string>
+    <string name="taman_info32">
+        Mount Ciremai was last exploded in 1938. It has beautiful appearance; undulating, hilly
+        and a mountain range. The summit is like a cone. Mount Ciremai sits at the height of 3.078
+        meter above sea level, surrounded by terraces of rice fields, cold air and clear rivers.
+        With an area of 15.500 hectares, the park is important as water reservoir for the people
+        living adjacent to the park. It becomes the headwaters of 43 rivers, 156 water springs,
+        and 147 out of it drains water continuously throughout the year with the quality of
+        drinking water.
+    </string>
+    <string name="taman_info33">
+        Off the Central Java coast, the Java Sea reefs are tucked peacefully in Karimunjawa
+        Islands. Besides Kepulauan Seribu in Jakarta, the park could be an option for divers. So,
+        take a glance into this area. The coral reefs can be enjoyed by snorkeling and diving.
+        Divers can explore up to 20 feet in depth. Diving usually takes place in islands of Small
+        Menjangan, Cemara Besar, and Tengah Island.
+    </string>
+    <string name="taman_info34">
+        Nine craters resulted from Mount Merbabu eruption had became geology phenomena in central
+        Java. Gunung Merbabu National Park has two summits which are kept geological material ;
+        loose material and melted lava. Merbabu is best for them who want to climb until the summit
+        while observing the geological process hundred years ago.
+    </string>
+    <string name="taman_info35">
+        Towering majestically on the north horizon, the summit of Mount Merapi are affirmed as the
+        landmark of the landscape and cultural of Yogyakarta. The earth pole which is known for
+        being very active in Indonesia is one of the most 16 active volcano in the globe. Its charm
+        like a magnet for them, the mountain climber and the wild nature lover. Every time Mount
+        Merapi twists the earth, it will attract the attention of vulcanologist and geologist all
+        over the world.
+    </string>
+    <string name="taman_info36">
+        Usually, watching the crater of the mountain closely to the steep trail must trace all odds
+        of nature. However, without those kind of struggles, tourists can reach Bromo crater rim
+        easily. The crater is located in Bromo Tengger Semeru National Park. A stretch of vast sea
+        of sand is in between the gate of the park and the crater. Visitors are crossing the sandy
+        ocean towards the crater either on foot, by jeep or riding horses just like a cowboy
+        horseback.
+    </string>
+    <string name="taman_info37">
+        The landscape of water and land have become the last fortress for various fauna and flora
+        on the south part of East Java. Directly adjacent to the Indian Ocean, Meru Betiri is a
+        stopover for four of the seven types of sea turtles in the world. Green turtle (Chelonia
+        mydas), Hawksbill (Eretmochelys imbricata), slengkrah (Lepidochelys olivacea), and
+        Leatherback turtle (Dermochelys coriacea) visited the coastal of Meru Betiri to bury
+        their eggs.
+    </string>
+    <string name="taman_info38">
+        Baluran National park is located in Situbondo, East Java. A piece of tiny savanna with its
+        wildlife makes the park is very well known as the tiny African of Java.
+    </string>
+    <string name="taman_info39">
+        Alas Purwo is not just a piece of wilderness. The forest has an intimate bonding of the
+        local’s cultural and religious nuances. Alas Purwo National Park which is located in
+        Banyuwangi, East Java is well known as a land for the rover.
+    </string>
+    <string name="taman_info40">
+        White cotton fluffy mixed with a beautiful blue streaks around the eyes. This is how Bali
+        starling which is naturally living only in Bali look like. British ornithologist Baron
+        Stressmann found this starling as Leucopsar rothschildi on March 24, 1911. The discovery
+        took place when the Maluku Ship Expedition II carrying researchers. The ship was forced to
+        be landed in Singaraja for 3 months.
+    </string>
+    <string name="taman_info41">
+        It was told that in the past Mount Rinjani had ever reached its height at 5.000 meters
+        above sea level. Nowadays, the summit of Rinjani has been one of the most popular tourist
+        destinations in Gunung Rinjani National Park, West Nusa Tenggara and even in the country.
+        The peak of Rinjani is now decreasing at 3.726 meters above sea level. Mount Rinjani,
+        which is currently the second highest mountain in Indonesia, is still active. History
+        records its powerful eruption in 1884 and the last on November 3, 1994.
+    </string>
+    <string name="taman_info42">
+        From the sky, a thread of islands, large and small, seems to float in the Komodo Ocean.
+        Arid and barren, that was the first impression upon seeing the islands. However, the clear
+        and bluish sea water, on which the islands float, washed out the impression. Brown and
+        blue, they make a perfect combination of colour. Komodo, Rinca, Padar, Gili Mota, Nusa Kode
+        and other small islands compose Komodo National Park, Manggarai, East Nusa Tenggara. The
+        park is the home of the Komodo Dragon (Varanus komodoensis).
+    </string>
+    <string name="taman_info43">
+        Manupeu Tanah Daru National Park offers the charm of the Lapopu waterfall that amazes
+        travelers on a journey full of challenges. Meanwhile, Laiwangi Wanggameti National Park in
+        Sumba, which covers hilly areas to the horizon, has a dense canopy and plays an important
+        role in storing water reserves that are much needed by local communities during the dry
+        season.
+    </string>
+    <string name="taman_info45">
+        At the peak of Kelimutu, Ende, East Nusa Tenggara, three lakes is spanning as the silent
+        witness to the abode of ancestral spirits of the Lio community. A red Atapolo lake for
+        evil spirits; a Turquoise Nua Muri Koo Fai for youths spirits, and Black Ata Mbupu for
+        elder or wise spirit. Not far from the gate of the national park, there lies a large rock
+        called Perekonde. Lio society believes, this is the gate of the court where the spirit gets
+        appropriate judgment for their behavior during their life in the world.
+    </string>
+    <string name="taman_info46">
+        Standing with elegant at di Semenanjung Sanggar, Sumbawa Island, two decades ago,
+        Tambora shaked the world. Nowadays, in its silence, Tambora offers a stunning beauty of
+        nature and resources for human around. After two years of its explosion, Tambora was
+        appointed as national park by the Ministry of Environment and Forestry of Indonesia,
+        with an area of 71.645 hectare.
+    </string>
+    <string name="taman_info47">
+        Aketajawe Lolobata National park is situated in Central Halmahera, Kota Tidore Kepulauan
+        and East Halmahera, North Maluku Province. For bird lovers, this place is just like a
+        paradise. The North Maluku has 243 bird species and 26 out of it is endemic to the region.
+        Meanwhile, Halmahera it self has 211 bird species and 24 out if it is endemic. Bird endemic
+        of Halmahera are Invisible rail (Habroptila walacei), Blue and white kingfisher
+        (Todiramphus diops), Halmahera cukcoo-shire (Coracina parvula), and Dusky- brown oriole
+        (Oriolus phaeochromus).
+    </string>
+    <string name="taman_info48">
+        Manusela is a natural showcase for Seram\'s various ecosystems: beaches, swamp forests,
+        lowland rain forests and mountain rain forests. From the coastline to the mountains,
+        Manusela presents a variety of vegetation types on Seram Island. Starting from mangroves,
+        beaches, swamp forests, river cliffs, tropical rain forests, mountain forests, to
+        sub-alpine forests.
+    </string>
+    <string name="taman_info49">
+        As far as the eye sight, the ocean dominates the landscape of Teluk Cendrawasih National
+        Park. This park is located at the edge of Pacific Ocean, just right at the meeting point
+        of tectonic plate of Australia continent and Pacific. The geological history had made the
+        park rich ini biodiversity.
+    </string>
+    <string name="taman_info50">
+        With 2.35 million hectares area, this national park was assigned as an Asean Herritage
+        Parks in 2004. Having the most gallant and interesting karst caves formations in the world,
+        it makes the park is very unique. Lorentz National Park has a complete ecosystem started
+        from the highland to the wetland at Arafura beach. It represents ecosystem gradation
+        which is ranging in the height of 0 – 4.884 above sea level on which Mount Trikora and
+        Jaya are seated. The Cartenz summit, the highest peak in South-east Asia is well known to
+        have the eternal snow. The park was recognized as one of the World Heritage Site from
+        UNESCO.
+    </string>
+    <string name="taman_info51">
+        The nature of Wasur has two distinctive weather along with the changes in season. The
+        transition periode is due when the season is changed. During rainy season, the swamp is
+        fully watered. In contrast, it will empty during the dry season. The base of the swamp
+        dries gradually and the soil is cracking. Only small patches with a little water in it
+        are left behind. The preservation of Wasur is in line with the locals wisdom and norms.
+        Its quote is used as the motto of Merauke District: Izakod Bekai Izakod Kai: One Heart One
+        Goal. The local still here the customary law in order to keep the human relationship with
+        nature.
+    </string>
+    <string name="taman_info52">
+        Located in the Siak District of Riau Province, Zamrud National Park was declared the 52nd
+        national park in the country on July 22, 2016. The park\'s original area was once a
+        Wildlife Sanctuary of Lake Zamrud, covering 30 hectares of forest. It was later expanded to
+        its current size of 31,340 hectares when it received its national park designation. This
+        national park is primarily characterized by its peat swamp forest ecosystem and serves as a
+        vital refuge for the surrounding area. Zamrud National Park is home to 38 bird species,
+        with 12 of them being protected species, including the White stork and various hornbill
+        species. The park also houses the Serindit Melayu (Lariculus galgulus), which serves as an
+        iconic species for the region.
+    </string>
+    <string name="taman_info53">
+        In the same year as the declaration of Zamrud National Park, in the central part of
+        Indonesia, precisely in the West Sulawesi Province, Gandang Dewata National Park was also
+        born. This 53rd National Park is located in three regencies: Mamasa, Central Mamuju, and
+        Mamuju. Its high biodiversity level, along with its authenticity and uniqueness, serves as
+        the main basis for designating this area as a national park.
+    </string>
+    <string name="taman_info54">
+        Mount Maras standing on the land of Bangka together with other hills namely Nangka, Terang,
+        Tambun Tulang, and Perayun. The term "mountain" for Maras is actually unusual. Mount Maras
+        was determined as a national park on 27 July 2016 as the 54th national park in Indonesia.
+        Mount Maras National Park is located in two sub-districts, Riau Silip and Kelapa, Bangka
+        Barat and Bangka District, Province of Bangka Belitung. The uniqueness of Mount Maras is
+        represented by its richness in ecosystem types, which is united in one landscape; mangrove,
+        mountain forest, and lowland forest.
+    </string>
+    <string name="ubah_bahasa">Change language</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="inggris">English</string>
+    <string name="tn1_a1">
+        Exploring the natural beauty of Gunung Leuser National Park. Step by step, journeying
+        through the exquisite rainforest teeming with rare plants and animals.
+    </string>
+    <string name="tn1_a2">
+        One of the best white water rafting spots in Indonesia. Commercial white water rafting in
+        the Alas River was first introduced by SOBEK EXPEDITION in the 1970s. Rafting down the Alas
+        River offers a unique perspective of Gunung Leuser National Park. The beauty and natural
+        wonder, the flora and fauna, can be appreciated from the rubber boat while conquering the
+        river rapids.
+    </string>
+    <string name="tn1_a3">
+        Rubbing, touching, and caressing the rough fur and thick skin of Sumatran elephants leaves
+        a profound impression on tourists during the animal bathing experience.
+    </string>
+    <string name="tn1_a4">
+        Witnessing the release of hatchlings into the sea, giving them the chance to grow and
+        embark on their journey into the underwater world full of beauty.
+    </string>
+    <string name="tn1_a5">
+        Riding these friendly native elephants. With breathtaking natural scenery as the backdrop,
+        you can experience a unique connection with the wild. While traversing the lush forest and
+        listening to the whispers of the leaves, these elephants will take you on a journey to
+        explore the beauty of Gunung Leuser National Park.
+    </string>
+    <string name="tn1_kh1">
+        The Sumatran Orangutan (Pongo abelii) has captivated tourists from around the world.
+        The Sumatran Orangutan Observation Center is located in Bukit Lawang Plantation Village,
+        Bahorok, Langkat. Observing Sumatran orangutans is a highlight during the jungle adventure
+        in Bukit Lawang.
+    </string>
+    <string name="tn1_kh2">
+        Want to go on an adventure while riding Sumatran elephants? Visit the ecotourism area of
+        Tangkahan, Batang Serangan, Langkat, North Sumatra. Known as a hidden paradise in North
+        Sumatra, Tangkahan is situated within Gunung Leuser National Park.
+    </string>
+    <string name="tn1_kh3">
+        Behold the unique natural beauty of Gunung Leuser! In Gunung Leuser National Park, we can
+        see the endangered sea turtle, a rare species that needs our protection.
+    </string>
+    <string name="tn1_kh4">
+        The magnificent sight of Rafflesia atjehensis in Gunung Leuser National Park. This rare
+        natural beauty is one of the largest species of Rafflesia in the world, with striking
+        flowers that can grow up to one meter in size!
+    </string>
+    <string name="tn1_kh5">
+        The nearly mystical beauty of Pygmy Water Lily in Gunung Leuser National Park. Hidden
+        among the lush greenery, these small flowers bloom on the water\'s surface, creating an
+        incredibly beautiful view.
+    </string>
+    <string name="tn2_a1">
+        Enjoy an exciting adventure in Batang Gadis National Park with the thrilling tubing
+        activity. Dive into the flowing river amidst the tropical forest and experience
+        unparalleled joy.
+    </string>
+    <string name="tn2_a2">
+        Visit Batang Gadis National Park and explore the beauty of local culture with the
+        traditional Sibanggor houses. Witness well-preserved architecture and immerse yourself in
+        the midst of magnificent wilderness.
+    </string>
+    <string name="tn2_a3">
+        Hiking in Batang Gadis National Park. Enjoy an exhilarating adventure with unforgettable
+        scenic views in the pristine wilderness.
+    </string>
+    <string name="tn2_a4">
+        Aek Cunek is a 100-meter-high waterfall with beautiful natural scenery.
+    </string>
+    <string name="tn2_kh1">
+        The Sumatran Tiger, a symbol of strength and grace in Batang Gadis National Park. Visit to
+        witness the astonishing beauty of the wild.
+    </string>
+    <string name="tn2_kh2">
+        Witness the beauty of the wild: The Great Argus Pheasant, the jewel of Batang Gadis
+        National Park. Come and witness the captivating wonder of wildlife.
+    </string>
+    <string name="tn2_kh3">
+        Extraordinary natural beauty in Batang Gadis National Park: The enchanting Dancing Orchid.
+        Explore this natural wonder now!
+    </string>
+    <string name="tn2_kh4">
+        Nepenthes, the insect-eating plant in Batang Gadis National Park. Astonishing beauty of the
+        wild awaits to be explored.
+    </string>
+    <string name="tn2_kh5">
+        In Batang Gadis National Park, Rafflesia meijerri grows alongside wild mushrooms. Witness
+        this unique beauty and discover the wonders of nature with every step you take.
+    </string>
+    <string name="tn3_a1">
+        Enjoy moments of relaxation and observe wildlife in Tesso Nilo National Park through bird
+        watching. Witness a variety of unique forest birds in their natural habitat.
+    </string>
+    <string name="tn3_a2">
+        Gain an unforgettable learning experience with elephant education in Tesso Nilo National
+        Park. Get to know the life and special protection of elephants up close.
+    </string>
+    <string name="tn3_a3">
+        Follow in the footsteps of environmental heroes in Tesso Nilo National Park by learning
+        traditional martial art, Silat Pangean.
+    </string>
+    <string name="tn3_a4">
+        Witness joyful moments as elephants in Tesso Nilo National Park enjoy their bathing time.
+        An experience that brings you closer to these extraordinary creatures amidst the beauty of
+        nature.
+    </string>
+    <string name="tn3_a5">
+        No need to worry about mud stains when exploring the forest, as the nature trail has been
+        paved with paving blocks. Along the three-kilometer journey, visitors\' eyes will be
+        delighted by the shade of giant trees.
+    </string>
+    <string name="tn3_kh1">
+        Tesso Nilo area has become one of the key conservation centers for wildlife habitats, with
+        approximately 150 elephants.
+    </string>
+    <string name="tn3_kh2">
+        The beauty of Tesso Nilo National Park is experienced through the enchantment of the wild,
+        including the Rhinoceros Hornbill, which is an integral part of its ecosystem.
+    </string>
+    <string name="tn3_kh3">
+        Explore the nocturnal life in Tesso Nilo National Park, where various types of frogs gather
+        and create unique sounds.
+    </string>
+    <string name="tn3_kh4">
+        Observing the colorful and cheerful variety of birds in Tesso Nilo National Park makes
+        every adventure here unforgettable.
+    </string>
+    <string name="tn3_kh5">
+        The carnivorous pitcher plant, a unique insect-eating plant, is one of the species found in
+        Tesso Nilo National Park.
+    </string>
+    <string name="tn4_a1">
+        Enjoy the beauty of local culture with the traditional Turuk Laggai dance in Siberut
+        National Park.
+    </string>
+    <string name="tn4_a2">
+        Immerse yourself in the unique cultural wisdom of the Siberut community.
+    </string>
+    <string name="tn4_a3">
+        Witness the beautiful moment of hatchling release, a symbol of new hope in the heart of the
+        Siberut forest.
+    </string>
+    <string name="tn4_kh1">
+        Captivated by the vibrant colors of the Asystasia Gangetica flowers that bloom in Siberut
+        National Park.
+    </string>
+    <string name="tn4_kh2">
+        Explore plant diversity by discovering the unique pitcher plant within the Siberut forest.
+    </string>
+    <string name="tn4_kh3">
+        Witness the rare Montrouziera Cauliflora tree, a natural wonder in Siberut National Park.
+    </string>
+    <string name="tn4_kh4">
+        Let\'s go in search of the Bilau Gibbon, a primate that is an integral part of the Siberut
+        forest ecosystem.
+    </string>
+    <string name="tn5_a1">
+        Approaching the summit of Mount Kerinci, greenery becomes increasingly rare. At a glance,
+        this crystal-clear panorama presents the tropical landscape of Sumatra.
+    </string>
+    <string name="tn5_a2">
+        Witness the natural beauty by visiting the Lumpo Waterfall in Kerinci Seblat National Park.
+    </string>
+    <string name="tn5_a3">
+        Enjoy an adventure by exploring the enchanting river with a boat in Kerinci Seblat National
+        Park.
+    </string>
+    <string name="tn5_kh1">
+        The Sumatran tiger roams the lush forests of Kerinci. The grandeur of this big cat is
+        evident from the nickname given by the people: "Si Datuk."
+    </string>
+    <string name="tn5_kh2">
+        Encounter the binturong, a unique animal in Kerinci Seblat National Park.
+    </string>
+    <string name="tn5_kh3">
+        Shrouded in the dimness of the rainforest, the Rafflesia arnoldi flower blooms in a burst
+        of color, as if painting the wilderness.
+    </string>
+    <string name="tn6_a1">
+        Enjoy an exciting adventure with hiking in Bukit Duabelas National Park. Explore the unique
+        nature and culture.
+    </string>
+    <string name="tn6_a2">
+        Embrace the hospitality of the Orang Rimba community by visiting their traditional houses
+        in Bukit Duabelas National Park. An unforgettable cultural experience.
+    </string>
+    <string name="tn6_a3">
+        Meet the Orang Rimba community living in harmony with nature in Bukit Duabelas National
+        Park. A fascinating cultural diversity.
+    </string>
+    <string name="tn6_kh1">
+        Siamang, one of the many amazing creatures you\'ll encounter in Bukit Duabelas National
+        Park. A captivating biodiversity.
+    </string>
+    <string name="tn6_kh2">
+        Bulbophyllum Patens, one of the many plant species thriving in Bukit Duabelas National
+        Park. A natural beauty that needs preservation.
+    </string>
+    <string name="tn6_kh3">
+        Dipodium Scardens, an exotic orchid thriving in Bukit Duabelas National Park. Enchanting
+        natural beauty.
+    </string>
+    <string name="tn6_kh4">
+        Meranti Bunga, a unique plant that is a vital part of Bukit Duabelas National Park\'s
+        ecosystem. A natural wonder that must be conserved.
+    </string>
+    <string name="tn6_kh5">
+        Nepenthes, the captivating carnivorous plant in Bukit Duabelas National Park. Biodiversity
+        that we need to protect together.
+    </string>
+    <string name="tn7_a1">
+        Experience an extraordinary adventure with Jungle Run in Bukit Tigapuluh National Park.
+        Adrenaline and natural beauty in one package.
+    </string>
+    <string name="tn7_a2">
+        Speed across the water on a speedboat in Bukit Tigapuluh National Park. Glide along the
+        mesmerizing river at high speed.
+    </string>
+    <string name="tn7_a3">
+        Tourist attractions in Bukit Tigapuluh National Park, besides camping, can also be used for
+        trailing, hiking, and bird watching.
+    </string>
+    <string name="tn7_kh1">
+        The Crimson-winged Woodpecker, one of the many birds that enhance the biodiversity of Bukit
+        Tigapuluh National Park. The beauty of natural colors.
+    </string>
+    <string name="tn7_kh2">
+        The Hornbill, a giant bird with a striking beak that plays an essential role in the
+        ecosystem of Bukit Tigapuluh National Park. A natural uniqueness that needs to be preserved.
+    </string>
+    <string name="tn7_kh3">
+        The Tapir, an exotic herbivorous animal that roams the forests of Bukit Tigapuluh National
+        Park. A natural wonder that must be conserved.
+    </string>
+    <string name="tn7_kh4">
+        The Copper-cheeked Frog, a water-dwelling creature essential for the biodiversity of Bukit
+        Tigapuluh National Park.
+    </string>
+    <string name="tn7_kh5">
+        The Sumatran Tiger, a captivating predator in Bukit Tigapuluh National Park. A symbol of
+        the beauty and power of nature.
+    </string>
+    <string name="tn8_a1">
+        Enjoy the beauty of nature while bird-watching in Berbak and Sembilang National Park.
+    </string>
+    <string name="tn8_a2">
+        Explore the beauty of the rivers by boat in Berbak and Sembilang National Park. An exciting
+        water adventure.
+    </string>
+    <string name="tn8_a3">
+        Immerse yourself in nature through trailing in Berbak and Sembilang National Park. A
+        winding adventure in the breathtaking forest.
+    </string>
+    <string name="tn8_a4">
+        Witness the beauty of the sunrise from Dusun Sembilang in Berbak and Sembilang National
+        Park. An inspiring morning.
+    </string>
+    <string name="tn8_a5">
+        Learn about the traditional process of making shrimp paste in Berbak and Sembilang National
+        Park. A culture lesson filled with aroma.
+    </string>
+    <string name="tn8_kh1">
+        The Sumatran Elephant, one of the dominant animals in the biodiversity of Berbak and
+        Sembilang National Park. A natural wonder that needs preservation.
+    </string>
+    <string name="tn8_kh2">
+        Crocodiles, powerful predators living in the rivers of Berbak and Sembilang National Park.
+        An integral part of the river ecosystem.
+    </string>
+    <string name="tn8_kh3">
+        Cockatoos, exotic birds that adorn the skies of Berbak and Sembilang National Park.
+        Captivating fauna diversity.
+    </string>
+    <string name="tn8_kh4">
+        Orangutans, charming primates that live in the forests of Berbak and Sembilang National
+        Park. An inspiring biodiversity.
+    </string>
+    <string name="tn8_kh5">
+        The Pitcher Plant, a unique carnivorous plant, thrives in Berbak and Sembilang National
+        Park. A unique flora that must be preserved.
+    </string>
+    <string name="tn10_a1">
+        Dare to try white water rafting in Cilik River? Feel the thrilling adventure in Bukit
+        Barisan Selatan National Park.
+    </string>
+    <string name="tn10_a2">
+        Witness the stunning beauty of Talang Bukit crater in Bukit Barisan Selatan National Park.
+    </string>
+    <string name="tn10_a3">
+        Gain insights into the environment at Bukit Barisan Selatan National Park by participating
+        in the phenology learning program at Way Canguk Research Station.
+    </string>
+    <string name="tn10_kh1">
+        The biodiversity of Bukit Barisan Selatan National Park also includes exotic turtles.
+    </string>
+    <string name="tn10_kh2">
+        The great hornbill nests in tree cavities within the forest.
+    </string>
+    <string name="tn10_kh3">
+        Rafflesia arnoldii perches on liana tree trunks.
+    </string>
+    <string name="tn10_kh4">
+        The Sumatran elephant, one of the key species in the biodiversity of Bukit Barisan Selatan
+        National Park. A natural wonder that needs to be preserved.
+    </string>
+    <string name="tn11_a1">
+        Enjoy a camping adventure in Way Kambas National Park. A starry night in the midst of the
+        wilderness.
+    </string>
+    <string name="tn11_a2">
+        Join exciting tours in Way Kambas National Park. Explore the natural riches and local
+        culture.
+    </string>
+    <string name="tn11_a3">
+        Experience a special moment of feeding elephants in Way Kambas National Park. An
+        unforgettable interaction with these majestic creatures.
+    </string>
+    <string name="tn11_a4">
+        Observe the beauty of wild birds in Way Kambas National Park. An amazing bird-watching
+        experience.
+    </string>
+    <string name="tn11_a5">
+        Witness the cultural beauty with Lampung dance in Way Kambas National Park. Culture
+        thriving in the wilderness.
+    </string>
+    <string name="tn11_kh1">
+        The Sumatran rhinoceros, one of the protected species in Way Kambas National Park.
+        Biodiversity that needs to be preserved.
+    </string>
+    <string name="tn11_kh2">
+        Bears, powerful animals living in the forests of Way Kambas National Park. Their presence
+        adds to the extraordinary natural wealth.
+    </string>
+    <string name="tn11_kh3">
+        Tigers, powerful predators and one of the icons of Way Kambas National Park. Their presence
+        is a source of pride for nature.
+    </string>
+    <string name="tn11_kh4">
+        Elephants, majestic creatures that roam the forests of Way Kambas National Park. An
+        inseparable part of biodiversity.
+    </string>
+    <string name="tn11_kh5">
+        Rimba Duck, a rare bird that is a hallmark of Way Kambas National Park. The captivating
+        charm of wildlife.
+    </string>
+    <string name="tn12_a1">
+        Enjoy a peaceful night at the camping ground in Gunung Palung National Park. The fresh
+        natural ambiance and shining stars.
+    </string>
+    <string name="tn12_a2">
+        Experience tubing adventure in the rivers of Gunung Palung National Park. The thrill of
+        navigating challenging water currents.
+    </string>
+    <string name="tn12_a3">
+        Explore the natural beauty around Lubuk Baji waterfall in Gunung Palung National Park. A
+        stunning view to be savored.
+    </string>
+    <string name="tn12_a4">
+        Witness the beauty of Riam Berasap waterfall in Gunung Palung National Park. A perfect spot
+        to relax and enjoy nature.
+    </string>
+    <string name="tn12_a5">
+        Enjoy the breathtaking view at Riam Bekinjil in Gunung Palung National Park. Unforgettable
+        natural wonder.
+    </string>
+    <string name="tn12_kh1">
+        Acanthomenexenus Polyacanthus, one of the various rare species in Gunung Palung National
+        Park. Its unique presence is a natural attraction.
+    </string>
+    <string name="tn12_kh2">
+        Red-Naped Trogon, a beautiful bird with red hues on its body, is one of the many
+        inhabitants of Gunung Palung National Park. Enchanting fauna\'s beauty.
+    </string>
+    <string name="tn12_kh3">
+        Orangutans, highly endangered great apes, also call Gunung Palung National Park home. Their
+        presence is a valuable legacy of nature.
+    </string>
+    <string name="tn13_a1">
+        Feel the thrill of water adventure with kayaking in Bentarum National Park. An activity
+        suitable for all ages.
+    </string>
+    <string name="tn13_a2">
+        Let\'s relax with tubing in the charming rivers of Bentarum National Park. Fun vacation for
+        families and friends.
+    </string>
+    <string name="tn13_a3">
+        Enjoy spectacular views with a cruise tour in Bentarum National Park. An unforgettable
+        sailing experience.
+    </string>
+    <string name="tn13_kh1">
+        Orangutans, highly endangered great apes, also call Bentarum National Park home. Their
+        presence is a valuable legacy of nature.
+    </string>
+    <string name="tn13_kh2">
+        Marvel at the beauty of the Super Red Arowana that shines in Bentarum National Park. The
+        enchanting underwater world\'s charm.
+    </string>
+    <string name="tn13_kh3">
+        Discover a variety of fascinating creatures like the Huntsman Spider in Bentarum National
+        Park. Captivating fauna diversity.
+    </string>
+    <string name="tn14_a1">
+        Create unforgettable memories at the camping ground in Bukit Baka Bukit Raya National Park.
+        Enjoy the serene natural surroundings and starry nights.
+    </string>
+    <string name="tn14_a2">
+        Challenge yourself with the ascent of Bukit Raya in Bukit Baka Bukit Raya National Park.
+        The summit offers extraordinary views that make your efforts worthwhile.
+    </string>
+    <string name="tn14_a3">
+        Experience the wonders of nature while observing wildlife in Bukit Baka Bukit Raya National
+        Park. See the diverse creatures living freely in their habitat.
+    </string>
+    <string name="tn14_a4">
+        Explore the beauty of the waters by boat in Bukit Baka Bukit Raya National Park. Enjoy the
+        tranquility of the water and the surrounding nature.
+    </string>
+    <string name="tn14_a5">
+        Feel the excitement of rafting on the Ella Hulu River in Bukit Baka Bukit Raya National
+        Park. A thrilling experience that immerses you in the wild.
+    </string>
+    <string name="tn14_kh1">
+        Sneaking into the Bukit Baka – Bukit Raya forest, we are greeted by the lively sounds of
+        wild animals. One of them is the sound of the Slow Loris. The playful sounds of this
+        wildlife create a soothing natural harmony.
+    </string>
+    <string name="tn14_kh2">
+        Witness the enchanting Rajah Brooke\'s Birdwing butterflies fluttering amidst the greenery.
+    </string>
+    <string name="tn14_kh3">
+        Sambar Deer, the magnificent animals, roam beautifully within Bukit Baka Bukit Raya
+        National Park.
+    </string>
+    <string name="tn14_kh4">
+        The wonder of the Amorphophallus Hewittii plant blooms in Bukit Baka Bukit Raya National
+        Park. Experience the incredible diversity of plants in this wild nature.
+    </string>
+    <string name="tn14_kh5">
+        Rhododendron Mageanum, an exotic flowering plant, thrives in Bukit Baka Bukit Raya National
+        Park. The endless beauty of nature in every corner.
+    </string>
+    <string name="tn16_a1">
+        The parked klotok boats are always ready to take visitors along the Sekonyer River.
+    </string>
+    <string name="tn16_a2">
+        Tracking, an exciting experience of traversing the open wilderness in Tanjung Puting
+        National Park.
+    </string>
+    <string name="tn16_a3">
+        Foreign tourists are busy documenting Orangutans at Camp Leakey.
+    </string>
+    <string name="tn16_kh1">
+        Orangutans, the icons of wildlife in Tanjung Puting National Park.
+    </string>
+    <string name="tn16_kh2">
+        A group of Proboscis Monkeys perched in the treetops, led by the dominant male. The male is
+        marked by his long nose.
+    </string>
+    <string name="tn16_kh3">
+        The variety of life in Tanjung Puting National Park: Nephila Pilipes Spiders.
+    </string>
+    <string name="tn17_a1">
+        Witness the beauty of birds in Sebangau National Park.
+    </string>
+    <string name="tn17_a2">
+        Unforgettable adventure: trekking in the wilderness of Sebangau.
+    </string>
+    <string name="tn17_a3">
+        Navigate the river and immerse yourself in the biodiversity of Sebangau.
+    </string>
+    <string name="tn17_kh1">
+        The vibrant life in Sebangau National Park: Golden Pheasants adorn the sky.
+    </string>
+    <string name="tn17_kh2">
+        Life in Sebangau National Park: Nepenthes Pitcher Plants, hidden predators.
+    </string>
+    <string name="tn17_kh3">
+        Orangutans Pongo pygmaeus, guardians of the forest and natural wonders in Sebangau.
+    </string>
+    <string name="tn17_kh4">
+        Biodiversity in Sebangau National Park: the Crimson-headed Trogon bird and the beautiful
+        forest.
+    </string>
+    <string name="tn17_kh5">
+        The enchanting beauty of nature in Sebangau National Park: Bulbophyllum reticulatum Orchids.
+    </string>
+    <string name="tn18_a1">
+        Witness captivating local dances in Kayan Mentarang National Park. The living beauty of
+        culture.
+    </string>
+    <string name="tn18_a2">
+        Explore the cultural richness in Kayan Mentarang National Park. Meet the friendly local
+        communities and learn their traditions.
+    </string>
+    <string name="tn18_a3">
+        See the beautiful local way of life in Kayan Mentarang National Park. Enjoy the natural
+        charm and daily lives of the people.
+    </string>
+    <string name="tn18_a4">
+        Observe the salt processing in Kayan Mentarang National Park. Meaningful daily life.
+    </string>
+    <string name="tn18_kh1">
+        Agile Gibbons, exotic primates in Kayan Mentarang National Park, add to the charm of
+        biodiversity. Their presence is a special part of the wilderness.
+    </string>
+    <string name="tn18_kh2">
+        Eagles, majestic predators, make Kayan Mentarang National Park their home. The allure of
+        freedom in the vast sky.
+    </string>
+    <string name="tn18_kh3">
+        Pythons, the amazing giant snakes, are one of the fascinating inhabitants of Kayan
+        Mentarang National Park. The mysterious wonder of nature.
+    </string>
+    <string name="tn18_kh4">
+        Neptis columella, an exotic butterfly in Kayan Mentarang National Park, adorns the forest
+        with its colorful wings. Captivating biodiversity.
+    </string>
+    <string name="tn18_kh5">
+        Rafflesia, the rare giant flower, thrives in Kayan Mentarang National Park. Unforgettable
+        natural beauty.
+    </string>
+    <string name="tn19_a1">
+        Canoe in Kutai National Park and explore the amazing river. Exciting water adventure in
+        the wilderness.
+    </string>
+    <string name="tn19_a2">
+        Enjoy beautiful views in Kutai National Park. Captivating natural beauty ready to be
+        explored.
+    </string>
+    <string name="tn19_a3">
+        Visit Gua Sampekmarta in Kutai National Park and discover the underground wonders. An
+        intriguing adventure in the darkness.
+    </string>
+    <string name="tn19_a4">
+        Experience the excitement of live music in Kutai National Park. A lively atmosphere to
+        enjoy together.
+    </string>
+    <string name="tn19_a5">
+        Paddle with a kayak in Kutai National Park and savor the beauty of a water adventure.
+        Refreshing activity in the great outdoors.
+    </string>
+    <string name="tn19_kh1">
+        Dracontomelum dao, an exotic tree that adorns Kutai National Park. The beauty of nature
+        that creates a unique ecosystem.
+    </string>
+    <string name="tn19_kh2">
+        Monitor lizards are among the many fascinating creatures in Kutai National Park. Their
+        presence adds to the interesting fauna diversity.
+    </string>
+    <string name="tn19_kh3">
+        Myriapods, diverse insects, are an integral part of Kutai National Park\'s natural
+        environment. The limitless uniqueness of the insect world.
+    </string>
+    <string name="tn19_kh4">
+        Lanternflies, enchanting insects, adorn Kutai National Park with their vibrant colors.
+        Captivating biodiversity
+    </string>
+    <string name="tn19_kh5">
+        Liverworts are one of the elements of Kutai National Park. The intriguing plant life in the
+        magnificent forest environment.
+    </string>
+    <string name="tn20_a1">
+        Explore the natural beauty of Bantimurung Bulusaraung National Park with challenging
+        tracking activities.
+    </string>
+    <string name="tn20_a2">
+        Enjoy spectacular views from the Helena Sky Bridge, a perfect spot to see this national
+        park\'s panorama.
+    </string>
+    <string name="tn20_a3">
+        Elevate your adventure with hiking amidst the stunning biodiversity of Bantimurung
+        Bulusaraung.
+    </string>
+    <string name="tn20_a4">
+        Witness the beauty of butterflies in the activity of butterfly watching in this national
+        park.
+    </string>
+    <string name="tn20_a5">
+        Take a dip beneath the roar of the Bantimurung Waterfall and feel the refreshment of its
+        water after a day full of adventure.
+    </string>
+    <string name="tn20_kh1">
+        Witness the splendor of the rare Sulawesi hornbills when visiting Bantimurung Bulusaraung
+        National Park.\
+    </string>
+    <string name="tn20_kh2">
+        Be mesmerized by the variety of colors of Graphium Androcles butterflies that adorn this
+        national park.
+    </string>
+    <string name="tn20_kh3">
+        Watch the playful macaca Maura troop in the tropical forests of Bantimurung Bulusaraung
+        National Park.
+    </string>
+    <string name="tn20_kh4">
+        Meet the Tarsius Fuscus, a small primate that can only be found in the forests of Sulawesi,
+        in this national park.
+    </string>
+    <string name="tn21_a1">
+        Emotional moment when baby turtles are released into the open sea to begin their life
+        adventure.
+    </string>
+    <string name="tn21_a2">
+        Enjoy the sensation of swimming in the clear and warm waters of Taka Bonerate National Park.
+    </string>
+    <string name="tn21_a3">
+        Explore the beauty of the underwater world by snorkeling in the stunning coral reefs.
+    </string>
+    <string name="tn21_kh1">
+        Encounter the powerful blacktip sharks in the waters of Taka Bonerate National Park.
+    </string>
+    <string name="tn21_kh2">
+        Witness the majestic and rare green sea turtles in these waters.
+    </string>
+    <string name="tn21_kh3">
+        Explore the colorful world with cute clownfish underwater in Taka Bonerate.
+    </string>
+    <string name="tn21_kh4">
+        Beware of the stonefish, mysterious fish that are skilled at hiding on the seabed.
+    </string>
+    <string name="tn21_kh5">
+        See the mantis shrimp with deadly claws, a top predator in the waters of Taka Bonerate.
+    </string>
+    <string name="tn22_a1">
+        Enjoy bird watching activities in Rawa Aopa Watumohai National Park. Witness the diversity
+        of birds that fill the sky.
+    </string>
+    <string name="tn22_a2">
+        Embark on a hiking adventure in the midst of the wilderness of Rawa Aopa Watumohai National
+        Park. Enjoy the breathtaking natural scenery.
+    </string>
+    <string name="tn22_a3">
+        Sail by boat and explore life in the waters of Rawa Aopa Watumohai National Park. A
+        thrilling water adventure.
+    </string>
+    <string name="tn22_a4">
+        Follow the beautiful hiking trails in Rawa Aopa Watumohai National Park. Enjoy the
+        freshness of nature and the amazing environment.
+    </string>
+    <string name="tn22_a5">
+        Experience a camping adventure in the wilds of Rawa Aopa Watumohai National Park. A
+        peaceful night under the starry sky.
+    </string>
+    <string name="tn22_kh1">
+        The cheerful cockatoo is one of the rare inhabitants of Rawa Aopa Watumohai National Park.
+        Witness the beauty of this lovely bird world.
+    </string>
+    <string name="tn22_kh2">
+        The Timor deer adorns the biodiversity of Rawa Aopa Watumohai National Park. Observe the
+        elegant deer in the midst of the forest.
+    </string>
+    <string name="tn22_kh3">
+        The Maleo, a unique and rare bird, has made Rawa Aopa Watumohai National Park its home.
+        Their distinctive presence is one of the natural attractions.
+    </string>
+    <string name="tn22_kh4">
+        The Tarsius, a charming small primate, is one of the wonders of Rawa Aopa Watumohai
+        National Park. Observe their cute activities in the wild.
+    </string>
+    <string name="tn23_a1">
+        Explore the native culture in Bajo Mola Village around Wakatobi National Park. Meet the
+        friendly local residents and experience their hospitality.
+    </string>
+    <string name="tn23_a2">
+        Witness the beauty of the underwater world in Wakatobi National Park through diving
+        activities. A spectacular marine world with various species and stunning coral reefs.
+    </string>
+    <string name="tn23_a3">
+        Take a paragliding flight and enjoy the breathtaking aerial views in Wakatobi National
+        Park. An unforgettable aerial adventure.
+    </string>
+    <string name="tn23_a4">
+        Bathe in the Kontamale Springs of Wakatobi National Park. Cooling waterfalls and green
+        nature for relaxation.
+    </string>
+    <string name="tn23_a5">
+        Toliamba Peak in Wakatobi National Park, a stunning view from the top.
+    </string>
+    <string name="tn23_kh1">
+        Witness the captivating school of barracuda in the waters of Wakatobi National Park.
+        Amazing sea beauty beneath the surface.
+    </string>
+    <string name="tn23_kh2">
+        The hawksbill sea turtle, including the hawksbill sea turtle, is a special part of the
+        marine diversity of Wakatobi National Park. Their rare presence is an attraction in itself.
+    </string>
+    <string name="tn23_kh3">
+        The Oriolus chinensis bird adds charm to Wakatobi National Park with its melodious songs.
+        Their soothing voices in the peaceful nature.
+    </string>
+    <string name="tn23_kh4">
+        The parupeneus cyclostomus fish adds color to the underwater world of Wakatobi National
+        Park. A fascinating marine biodiversity.
+    </string>
+    <string name="tn23_kh5">
+        The green turtle is a rare inhabitant that we must preserve in Wakatobi National Park.
+        Witness their beauty and uniqueness in the clear waters.
+    </string>
+    <string name="tn24_a1">
+        Create unforgettable memories by camping in Lore Lindu National Park. Pristine natural
+        surroundings and refreshing, calming air.
+    </string>
+    <string name="tn24_a2">
+        Discover hidden history at the Tokalaea statue in Lore Lindu National Park. Ancient
+        heritage that reveals stories of the past.
+    </string>
+    <string name="tn24_a3">
+        Explore the beauty of the Napu Valley in Lore Lindu National Park. A magnificent landscape
+        with soothing river streams.
+    </string>
+    <string name="tn24_a4">
+        Witness the wonders of the ancient Pokekea archaeological site in Lore Lindu National Park.
+        Traces of ancient civilization still alive.
+    </string>
+    <string name="tn24_a5">
+        Explore the local culture in Toro Village, around Lore Lindu National Park. Meet the local
+        residents and enjoy their hospitality.
+    </string>
+    <string name="tn24_kh1">
+        The Bubut alang bird is one of the many inhabitants that adorn Lore Lindu National Park.
+        Witness their cheerfulness and activities in the wild.
+    </string>
+    <string name="tn24_kh2">
+        Small yet charming, the tarsier is a captivating creature in Lore Lindu National Park.
+        Witness the resilience and uniqueness of its nocturnal life.
+    </string>
+    <string name="tn24_kh3">
+        The colorful hornbill birds bring their own charm to Lore Lindu National Park. Witness the
+        beauty and biodiversity that adorns the sky.
+    </string>
+    <string name="tn24_kh4">
+        The adorable orok-orok\'s behavior is one of the attractions in Lore Lindu National Park.
+        Observe their funny activities during your journey.
+    </string>
+    <string name="tn24_kh5">
+        The Nepenthes plant is one of the unique plants that adorn Lore Lindu National Park. A
+        natural wonder that holds its own uniqueness.
+    </string>
+    <string name="tn25_a1">
+        Witness a variety of marine life, including crabs, inhabiting the waters of Togean.
+    </string>
+    <string name="tn25_a2">
+        Explore the beauty of the islands with exciting boat adventures.
+    </string>
+    <string name="tn25_a3">
+        Dive into the amazing underwater world with diving activities in Togean.
+    </string>
+    <string name="tn25_kh1">
+        Charmed by the beauty of the \'Red Lionfish\' swimming in the waters of Togean.
+    </string>
+    <string name="tn25_kh2">
+        Explore the underwater world by observing enchanting \'Jellyfish\' in Togean.
+    </string>
+    <string name="tn25_kh3">
+        Witness a variety of marine life, including crabs, inhabiting the waters of Togean.
+    </string>
+    <string name="tn26_a1">
+        The stunning natural beauty of Boganinani Wartabone National Park: Lombongok Waterfall.
+    </string>
+    <string name="tn26_a2">
+        When nature presents its beauty with cascading water in Boganinani Wartabone National Park.
+    </string>
+    <string name="tn26_a3">
+        Explore the natural wonders of Boganinani Wartabone National Park with breathtaking views.
+    </string>
+    <string name="tn26_kh1">
+        Anoa, the rare treasure of Boganinani Wartabone National Park.
+    </string>
+    <string name="tn26_kh2">
+        Babirusa, the unique forest guardian in the wilderness of Boganinani Wartabone National
+        Park.
+    </string>
+    <string name="tn26_kh3">
+        Maleo Bocos, one of the exotic birds adorning Boganinani Wartabone National Park.
+    </string>
+    <string name="tn27_a1">
+        Enjoy the sensation of swimming in the crystal blue waters of Bunaken National Park.
+    </string>
+    <string name="tn27_a2">
+        Explore the beauty of the underwater world with snorkeling alongside spectacular coral
+        reefs.
+    </string>
+    <string name="tn27_a3">
+        Discover the mesmerizing underwater world by diving at the best locations in Bunaken.
+    </string>
+    <string name="tn27_a4">
+        Witness the diverse beauty of coral reefs with tours around the reef.
+    </string>
+    <string name="tn27_a5">
+        Explore the exotic mangrove forests in Bunaken National Park.
+    </string>
+    <string name="tn27_kh1">
+        Charming green turtles, one of the many underwater wonders in Bunaken National Park.
+    </string>
+    <string name="tn27_kh2">
+        Explore the biodiversity by encountering fascinating creatures like the copperband
+        butterflyfish.
+    </string>
+    <string name="tn27_kh3">
+        Dugongs, the rare and majestic sea icons of Bunaken National Park, gracefully swim in the
+        crystal-clear waters with us.
+    </string>
+    <string name="tn27_kh4">
+        The underwater mystery unfolds as the coral reef snake glides among the colorful coral
+        reefs.
+    </string>
+    <string name="tn28_a1">
+        Glide with the wind in the enchanting waters of Ujung Kulon.
+    </string>
+    <string name="tn28_a2">
+        Ride the big waves and experience thrilling action at Panaitan Beach for surfing
+        enthusiasts.
+    </string>
+    <string name="tn28_a3">
+        Divers prepare to delve into the depths of the offshore waters around Ujung Kulon.
+    </string>
+    <string name="tn28_kh1">
+        Meet the Javan langur, one of Indonesia\'s native primates in Ujung Kulon National Park.
+    </string>
+    <string name="tn28_kh2">
+        Protect the Javan rhinoceros, one of the endangered species that still survives here.
+    </string>
+    <string name="tn28_kh3">
+        Witness herds of wild banteng in their natural habitat in Ujung Kulon.
+    </string>
+    <string name="tn29_a1">
+        Experience special moments with young sea turtles at our conservation facility.
+    </string>
+    <string name="tn29_a2">
+        Dive into the depths of the Thousand Islands to witness the enchanting underwater life.
+    </string>
+    <string name="tn29_a3">
+        Connect with the beautiful underwater world through snorkeling in the waters of the
+        Thousand Islands.
+    </string>
+    <string name="tn29_kh1">
+        The colorful underwater life with clownfish and their companions.
+    </string>
+    <string name="tn29_kh2">
+        The sharp-eyed eagles soaring through the skies of Kepulauan Seribu.
+    </string>
+    <string name="tn29_kh3">
+        The strong hawksbill turtles crossing the waters, showcasing the beauty of the
+        underwater world.
+    </string>
+    <string name="tn30_a1">
+        Enjoy the natural beauty of Mount Halimun Salak by camping in the lush forest.
+    </string>
+    <string name="tn30_a2">
+        Entertain yourself with live music while enjoying the outdoors at night.
+    </string>
+    <string name="tn30_a3">
+        Explore the natural beauty and discover the amazing "Curug Seribu" waterfall during your
+        adventure here.
+    </string>
+    <string name="tn30_a4">
+        Enjoy challenging treks through the breathtaking dense forests.
+    </string>
+    <string name="tn30_kh1">
+        The footprints of the clouded leopard among the trees, one of the many wonders of Mount
+        Halimun Salak National Park.
+    </string>
+    <string name="tn30_kh2">
+        Witness the Javan gibbon, a rare primate in its natural habitat here.
+    </string>
+    <string name="tn30_kh3">
+        Beautiful orchids are among the many species living in the forests of Mount Halimun Salak.
+    </string>
+    <string name="tn31_a1">
+        Climbing to the peak of Mount Gede will take you through dense mossy forests. Mosses like
+        Doranopteris and Usnea will make mountaineers feel as if they are in a fairyland. At the
+        summit of Mount Gede, the expanse of mountain Cantigi will welcome the climbers. The
+        natural charm of Gede Pangrango lies in the bed of Edelweiss flowers, which captivates
+        climbers.
+    </string>
+    <string name="tn31_a2">
+        Enjoy the tranquility of Situgunung Lake in the Gede Pangrango National Park. A calming
+        natural atmosphere for relaxation and enjoying beautiful views.
+    </string>
+    <string name="tn31_a3">
+        Dive into an adventure in the Gede Pangrango National Park by visiting Curug Luhur.
+        It\'s a stunning waterfall and a refreshing natural environment to enjoy the beauty of
+        nature.
+    </string>
+    <string name="tn31_a4">
+        Find the comfort of nature at the New Bolang Campground, Gede Pangrango National Park. A
+        pleasant camping experience in the midst of a lush forest.
+    </string>
+    <string name="tn31_a5">
+        Explore the heights of the forest with the Canopy Trail Ciwalen in the Gede Pangrango
+        National Park. A spectacular view that presents the wonders of nature.
+    </string>
+    <string name="tn31_kh1">
+        Witness the uniqueness of the Gede Pangrango National Park with the Javan tree frog
+        blending into the green environment.
+    </string>
+    <string name="tn31_kh2">
+        The Gede Pangrango Complex becomes a hunting ground for the Javan leopard. There are two
+        forms of the Javan leopard: the clouded leopard and the spotted leopard, as seen in the
+        picture.
+    </string>
+    <string name="tn31_kh3">
+        Among the lush forest canopy, the Javan Gibbon (Hylobates moloch) sometimes leaps from
+        tree to tree.
+    </string>
+    <string name="tn31_kh4">
+        Witness the beauty of the endemic plant, Raflesia Rochussenii, which grows in the Gede
+        Pangrango National Park.
+    </string>
+    <string name="tn31_kh5">
+        As the morning approaches, the glow of the morning sun combines with the dew on the Cantigi
+        and Edelweiss peaks, leaving memories for anyone to return to Mount Gede Pangrango.
+    </string>
+    <string name="tn32_a1">
+        Enjoy a natural adventure in the Ciremai Mountain National Park by walking through
+        challenging trails.
+    </string>
+    <string name="tn32_a2">
+        The refreshing splashes of waterfalls located at the foot of Ciremai Mountain.
+    </string>
+    <string name="tn32_a3">
+        Swim in nature with the sacred fish of the Kuningan community.
+    </string>
+    <string name="tn32_kh1">
+        The black panther explores the hidden, mysterious lands of this nature.
+    </string>
+    <string name="tn32_kh2">
+        The slow loris leaps playfully under the sunlight in Ciremai Mountain National Park.
+    </string>
+    <string name="tn32_kh3">
+        The unforgettable beauty of the Nine O\'Clock flower in the Ciremai Mountain National Park.
+    </string>
+    <string name="tn32_kh4">
+        Edelweiss adorns the Ciremai Mountain National Park with its distinctive beauty.
+    </string>
+    <string name="tn33_a1">
+        Captivating coral reefs and colorful marine life await to be explored beneath the blue
+        surface.
+    </string>
+    <string name="tn33_a2">
+        Savor the deliciousness of authentic local cuisine that tantalizes the taste buds in
+        Karimun Jawa.
+    </string>
+    <string name="tn33_a3">
+        Dive into the mysterious depths of the sea and discover the spectacular underwater world.
+    </string>
+    <string name="tn33_kh1">
+        Clams in Karimun Jawa National Park quietly filter the mysteries of the sea.
+    </string>
+    <string name="tn33_kh2">
+        A playful clownfish enhances the waters of Karimun Jawa National Park.
+    </string>
+    <string name="tn33_kh3">
+        Resilient sea turtles are evidence of marine conservation efforts in Karimun Jawa.
+    </string>
+    <string name="tn33_kh4">
+        Seagulls soar above, guarding the coasts of Karimun Jawa.
+    </string>
+    <string name="tn33_kh5">
+        Humble sea cucumbers silently contribute to the marine balance in Karimun Jawa.
+    </string>
+    <string name="tn34_a1">
+        Have fun under the stars, greet the morning at the foot of Mount Merbabu by camping.
+    </string>
+    <string name="tn34_a2">
+        Explore the rich local culture by delving into the daily lives of the surrounding residents.
+    </string>
+    <string name="tn34_a3">
+        Challenge yourself with a demanding trek through the majestic peaks of Mount Merbabu.
+    </string>
+    <string name="tn34_kh1">
+        The surili with its cute expressions is one of the many adorable creatures to be found on
+        Mount Merbabu.
+    </string>
+    <string name="tn34_kh2">
+        Meet the lively monkey community while exploring the natural beauty of Mount Merbabu.
+    </string>
+    <string name="tn34_kh3">
+        Not only furry creatures, but Mount Merbabu also protects exotic plants like Waldsteinia.
+    </string>
+    <string name="tn35_a1">
+        Exciting offroad adventures on the challenging slopes of Mount Merapi with offroad vehicles.
+    </string>
+    <string name="tn35_a2">
+        Explore the amazing diversity of birds in Mount Merapi National Park.
+    </string>
+    <string name="tn35_a3">
+        Cycle through the beautiful nature of Mount Merapi for a refreshing and energetic
+        experience.
+    </string>
+    <string name="tn35_kh1">
+        The Javan Hawk-Eagle, the ruler of Mount Merapi\'s skies, soars majestically above the
+        mountain slopes.
+    </string>
+    <string name="tn35_kh2">
+        Witness the Bido snake eagle, the ultimate predator that dominates Mount Merapi\'s skies.
+    </string>
+    <string name="tn35_kh3">
+        Savor the sweetness of Sriganti honey, a delicious and refreshing natural product from
+        Mount Merapi.
+    </string>
+    <string name="tn35_kh4">
+        The exotic Vanda Tricolor orchid, a natural charm adorning the slopes of Mount Merapi.
+    </string>
+    <string name="tn35_kh5">
+        The Purple-headed Lizard, a unique lizard species, roams in its natural habitat around
+        Mount Merapi.
+    </string>
+    <string name="tn36_a1">
+        Witness the beauty of exotic birds that gather at the foot of the mountain.
+    </string>
+    <string name="tn36_a2">
+        Traverse challenging hiking trails and discover magnificent views with every step.
+    </string>
+    <string name="tn36_a3">
+        Explore the beauty of nature comfortably by horseback riding, navigating stunning
+        landscapes.
+    </string>
+    <string name="tn36_kh1">
+        The towering view of the Javan Hawk-Eagle overseeing its territory in Mount Bromo Tengger
+        Semeru.
+    </string>
+    <string name="tn36_kh2">
+        The Jelarang, a playful tree-dwelling creature, frolics freely in the midst of the forest.
+    </string>
+    <string name="tn36_kh3">
+        Greet the cheerful group of Javan Langurs playing among the trees.
+    </string>
+    <string name="tn36_kh4">
+        The enchantment of the spotted panthera pardus melas leopard prowling at night.
+    </string>
+    <string name="tn36_kh5">
+        A rare moment capturing the male Lacedo Pulchella blue-crowned rock thrush in action in the
+        wild.
+    </string>
+    <string name="tn37_a1">
+        Enjoy the fun waves with bodyboarding on the beach, Meru Betiri National Park. The exciting
+        sensation of riding the sea waves for a thrilling holiday experience.
+    </string>
+    <string name="tn37_a2">
+        Relax with a canoe trip in Meru Betiri National Park. Explore the waters and appreciate the
+        beauty of nature.
+    </string>
+    <string name="tn37_a3">
+        Travelers can share their love by burying turtle eggs in the hatchery. When they hatch,
+        baby turtles scatter around the hatchery and are cared for. When ready, the baby turtles
+        are released back on Sukamade Beach.
+    </string>
+    <string name="tn37_a4">
+        Sukamade\'s charm places this beach in the promoted diamond triangle destination by the
+        Banyuwangi Regency government and the Meru Betiri National Park Office.
+    </string>
+    <string name="tn37_a5">
+        The beauty of Bandelit Beach on the east side of Java Island.
+    </string>
+    <string name="tn37_kh1">
+        Meru Betiri bears the responsibility of conserving sea turtles. Amidst the hustle and
+        bustle of Java\'s density, Meru Betiri invites a return to serenity in preserving sea
+        turtles.
+    </string>
+    <string name="tn37_kh2">
+        The leopard, one of the essential predators in the ecosystem of these forests.
+    </string>
+    <string name="tn37_kh3">
+        The Meru Betiri wilderness shelters the Javan Hawk Eagle (Nisaetus bartelsi), an endemic
+        Javanese bird of prey.
+    </string>
+    <string name="tn37_kh4">
+        Observe the playful antics of gray macaques living freely in Meru Betiri National Park.
+        Cheerful forest residents who will entertain you during your journey.
+    </string>
+    <string name="tn37_kh5">
+        One of the phenomenal plants, Padmosari (Rafflesia zollingeriana), can still be encountered
+        by the public within this conservation area.
+    </string>
+    <string name="tn38_a1">
+        Explore the beauty of the lake with kayaking in Gunung Gede Pangrango National Park. An
+        exciting water adventure for everyone.
+    </string>
+    <string name="tn38_a2">
+        Explore the fascinating underwater life with snorkeling at Baluran National Park\'s
+        beaches. Discover the wonders of the beautiful underwater world.
+    </string>
+    <string name="tn38_a3">
+        Enjoy a pleasant journey by horseback riding in Baluran National Park. Experience the
+        freshness of the vast savannah.
+    </string>
+    <string name="tn38_a4">
+        Witness the breathtaking panorama of Bekol savannah in Baluran National Park. The vast
+        natural beauty and enchanting savannah views.
+    </string>
+    <string name="tn38_a5">
+        Relax and enjoy the beauty of Bama Beach in Baluran National Park. White sand and
+        crystal-clear waters await to welcome you.
+    </string>
+    <string name="tn38_kh1">
+        Another easily spotted wildlife is the Green Peafowl (Pavo muticus), especially during
+        their mating season from July to November. Before dawn breaks, the calls of the male
+        peafowls shatter the silence, inviting the females in response.
+    </string>
+    <string name="tn38_kh2">
+        Witness the beauty of Baluran National Park\'s wilderness through the presence of the green
+        junglefowl. They are an inseparable part of the rich biodiversity of this forest.
+    </string>
+    <string name="tn38_kh3">
+        Playful squirrels inhabit Baluran National Park. These cheerful creatures are always ready
+        to greet you with their cuteness.
+    </string>
+    <string name="tn38_kh4">
+        A variety of wildlife can be seen grazing in the Bekol savannah, including the Wild Buffalo
+        (Bubalus bubalis). Wild buffaloes are easily found near the scattered water holes around
+        the savannah.
+    </string>
+    <string name="tn38_kh5">
+        A variety of wildlife can be seen grazing in the Bekol savannah, including the Timor Deer
+        (Cervus timorensis). Timor deer are easily found near the scattered water holes around the
+        savannah.
+    </string>
+    <string name="tn39_a1">
+        Enjoy the refreshing waves as you swim in the waters of Alas Purwo.
+    </string>
+    <string name="tn39_a2">
+        Experience the rich local culture amidst the beautiful nature.
+    </string>
+    <string name="tn39_a3">
+        Surfers eagerly wait for good waves offshore of Plengkung. As they touch the wave walls,
+        they ride a surfboard. This sensation leaves a profound impression on wave riders.
+    </string>
+    <string name="tn39_kh1">
+        The majestic buffalo stands in Alas Purwo National Park, depicting the power of nature.
+    </string>
+    <string name="tn39_kh2">
+        See the long-tailed macaques playing in the trees, adding to the wildlife of this national
+        park.
+    </string>
+    <string name="tn39_kh3">
+        Cattle roam in the vast grasslands, creating a peaceful view in Alas Purwo National Park.
+    </string>
+    <string name="tn39_kh4">
+        Graceful peacocks with their beautiful feathers adorn the natural skies, adding their own
+        charm.
+    </string>
+    <string name="tn39_kh5">
+        Roaming deer are an integral part of the wildlife richness in Alas Purwo.
+    </string>
+    <string name="tn40_a1">
+        Explore the unparalleled beauty of the dense forest and witness wildlife at every step.
+    </string>
+    <string name="tn40_a2">
+        Sunbathe on the white sands of Teluk Terima Beach while listening to the soothing sound of
+        the waves.
+    </string>
+    <string name="tn40_a3">
+        Witness the beauty of Balinese culture and spirituality in meaningful religious ceremonies.
+    </string>
+    <string name="tn40_kh1">
+        Witness the beauty of clownfish hiding in the coral reefs.
+    </string>
+    <string name="tn40_kh2">
+        See how exotic the rare Bali myna bird is in its natural habitat.
+    </string>
+    <string name="tn40_kh3">
+        Witness the charm of the Bali starling bird in the wilds of West Bali.
+    </string>
+    <string name="tn40_kh4">
+        Explore the beauty of the national park with a sunset while searching for the beautiful
+        red-backed kingfisher bird.
+    </string>
+    <string name="tn40_kh5">
+        Embark on an adventure and encounter freely roaming wild boars in West Bali\'s forests.
+    </string>
+    <string name="tn41_a1">
+        Unforgettable camping under the starry sky of Mount Rinjani, accompanied by the soothing
+        sounds of nature.
+    </string>
+    <string name="tn41_a2">
+        Adventure exploration at the mountain peak offering spectacular views of Mount Rinjani
+        National Park.
+    </string>
+    <string name="tn41_a3">
+        Try your luck fishing in the calm river amidst the beauty of Mount Rinjani.
+    </string>
+    <string name="tn41_kh1">
+        Witness the beauty of the Rinjani scops owl with its magnificent wings adorning the sky in
+        this national park.
+    </string>
+    <string name="tn41_kh2">
+        Eagles soar high in the sky of Mount Rinjani, an integral part of its ecosystem.
+    </string>
+    <string name="tn41_kh3">
+        Wild deer roam through the lush forests of Mount Rinjani National Park, creating harmony in
+        biodiversity.
+    </string>
+    <string name="tn41_kh4">
+        One of the protected animals, the pangolin, can also be seen in this national park.
+    </string>
+    <string name="tn42_a1">
+        Hike the mountain, discover the beauty of nature, and connect with the wild in Komodo
+        National Park.
+    </string>
+    <string name="tn42_a2">
+        Observe the awe-inspiring Komodo dragons in their natural habitat.
+    </string>
+    <string name="tn42_a3">
+        Venture underwater, exploring the spectacular underwater world around Komodo National Park.
+    </string>
+    <string name="tn42_kh1">
+        Witness Komodo dragons, a must-see for visitors, which can be seen in Loh Liang, Komodo
+        Island, and Loh Buaya, Rinca Island.
+    </string>
+    <string name="tn42_kh2">
+        Marvel at the red-footed booby, a place for beautiful birds to bask in the morning sun.
+    </string>
+    <string name="tn42_kh3">
+        The park\'s beauty radiates through the presence of colorful and cheerful cockatoos.
+    </string>
+    <string name="tn42_kh4">
+        In the calm waters, watch the clownfish\'s playfulness in the enchanting coral reefs.
+    </string>
+    <string name="tn43_a1">
+        Give yourself the opportunity to connect with nature by camping in Matalawa National Park.
+    </string>
+    <string name="tn43_a2">
+        Capture beautiful moments from the astonishing natural diversity in Matalawa National Park.
+    </string>
+    <string name="tn43_a3">
+        Witness the wildlife and the fascinating diversity of bird species here.
+    </string>
+    <string name="tn43_kh1">
+        Greet the morning by observing exotic cockatoos gathering in Matalawa National Park.
+    </string>
+    <string name="tn43_kh2">
+        The rare Sumba hornbill is one of the many bird species that captivate the heart here.
+    </string>
+    <string name="tn43_kh3">
+        Spotted kestrel soar through the blue sky, adding to the diverse natural charm of Matalawa
+        National Park.
+    </string>
+    <string name="tn43_kh4">
+        The enchanting Eulophia exelta orchid will fill your journey with the colors of nature.
+    </string>
+    <string name="tn43_kh5">
+        Witness the beauty of the captivating Eulophia spectablis orchid, one of the many orchid
+        species in Matalawa National Park.
+    </string>
+    <string name="tn45_a1">
+        Witness the stunning beauty of Kalimutu National Park.
+    </string>
+    <string name="tn45_a2">
+        Explore the amazing mountain peaks with hiking activities in Kalimutu.
+    </string>
+    <string name="tn45_a3">
+        Experience the life and local culture through various unique traditional activities here.
+    </string>
+    <string name="tn45_kh1">
+        The Flores hawk-eagle, one of the many rare creatures dominating the skies in Kalimutu
+        National Park.
+    </string>
+    <string name="tn45_kh2">
+        The Garugiwa bird, with its striking plumage, adorns the trees around the national park.
+    </string>
+    <string name="tn45_kh3">
+        Cheerful and agile monkeys are always ready to welcome park visitors with their playful
+        antics.
+    </string>
+    <string name="tn46_a1">
+        Speed and adventure on the river with thrilling white-water rafting.
+    </string>
+    <string name="tn46_a2">
+        Explore the peak of Mount Tambora and enjoy the spectacular panorama.
+    </string>
+    <string name="tn46_a3">
+        Enjoy the thrill of riding on challenging terrain with a motorcycle around Mount Tambora.
+    </string>
+    <string name="tn46_kh1">
+        Enchanted by the Brahminy kite that rules the skies of Mount Tambora.
+    </string>
+    <string name="tn46_kh2">
+        Witness the beauty of the Flores hawk-eagle as they roam their natural habitat in this
+        national park.
+    </string>
+    <string name="tn46_kh3">
+        The red-cheeked parrots beautify the sky with their colors.
+    </string>
+    <string name="tn46_kh4">
+        Explore biodiversity by discovering the rare and beautiful Vanda Lombokensis orchid.
+    </string>
+    <string name="tn47_a1">
+        Challenge yourself with white-water rafting activities in Aketajawe Lalobata National Park.
+    </string>
+    <string name="tn47_a2">
+        Have fun with adventures in Aketajawe Lalobata through courageous outbound activities.
+    </string>
+    <string name="tn47_a3">
+        Explore the beauty of Aketajawe Lalobata through thrilling hikes.
+    </string>
+    <string name="tn47_kh1">
+        Witness the beauty of the Halmahera paradise bird with its captivating colors in Aketajawe
+        Lalobata National Park.
+    </string>
+    <string name="tn47_kh2">
+        The Halmahera golden bulbul, one of the unique species adorning the biodiversity of this
+        national park.
+    </string>
+    <string name="tn47_kh3">
+        Emoia Kordoana, one of the small representatives of reptilian diversity in Aketajawe
+        Lalobata National Park.
+    </string>
+    <string name="tn47_kh4">
+        Its distinctive call makes Litoria Infrafrenata part of the worth-witnessing amphibian
+        wealth here.
+    </string>
+    <string name="tn48_a1">
+        Show your adventurous spirit by visiting Wayansela Waterfall in Manusela National Park. The
+        soothing sound of cascading water and spectacular views will captivate you.
+    </string>
+    <string name="tn48_a2">
+        Reach the pinnacle of adventure by climbing Mount Binaiya in Manusela National Park.
+        Witness the beauty of nature from an amazing height.
+    </string>
+    <string name="tn48_a3">
+        Relax at Ora Lodge, a comfortable place to spend time amid the natural beauty of Manusela
+        National Park.
+    </string>
+    <string name="tn48_a4">
+        Experience extraordinary culture by enjoying the Cakalele Dance in Manusela National Park.
+        Energetic movements and captivating traditional stories.
+    </string>
+    <string name="tn48_a5">
+        Explore the wonders of the mangrove ecosystem with tracking activities in Manusela National
+        Park. Witness the unique life in the fascinating mangrove forest.
+    </string>
+    <string name="tn48_kh1">
+        The richness of bird species is clearly displayed at the entrance to the national park,
+        adorned with images of various birds. It\'s no wonder Manusela National Park uses the
+        Moluccan Cockatoo (Cacatua moluccensis) as its mascot.
+    </string>
+    <string name="tn48_kh2">
+        Manusela National Park is home to cuscus. Watch them in action in this magnificent forest.
+    </string>
+    <string name="tn48_kh3">
+        The colorful black-capped lory living freely in Manusela National Park is a major
+        attraction. They are an integral part of the forest\'s biodiversity.
+    </string>
+    <string name="tn48_kh4">
+        Unique and rare plants, such as bulbophyllum sp, add to the charm of biodiversity in
+        Manusela National Park. Natural wonders that hold their own uniqueness.
+    </string>
+    <string name="tn48_kh5">
+        Discover the beauty of thelasis sp, plants that grow in Manusela National Park. They are
+        part of the amazing natural wealth.
+    </string>
+    <string name="tn49_a1">
+        Step into the national park and experience the adventure in Cenderawasih Bay.
+    </string>
+    <string name="tn49_a2">
+        Dive in and discover the mesmerizing underwater beauty of Cenderawasih Bay in Teluk
+        Cenderawasih National Park.
+    </string>
+    <string name="tn49_a3">
+        Explore the rich culture and traditions amidst the natural beauty of Cenderawasih Bay
+        National Park.
+    </string>
+    <string name="tn49_kh1">
+        Wing flaps and tail displays of male Birds of Paradise to captivate the females. This
+        ritual is a treat for tourists in Barawai.
+    </string>
+    <string name="tn49_kh2">
+        Whale sharks in the clear waters. Witness the amazing encounters of ocean creatures the
+        size of minibuses here.
+    </string>
+    <string name="tn49_kh3">
+        Green turtles spend their entire lives in the depths of the sea. The females will land on
+        the shores of Cenderawasih Bay to lay their eggs.
+    </string>
+    <string name="tn49_kh4">
+        The refreshing beauty of clownfish in the waters of Cenderawasih Bay.
+    </string>
+    <string name="tn50_a1">
+        Experience the cold adventure in the midst of the enchanting snowy environment.
+    </string>
+    <string name="tn50_a2">
+        Conquer the majestic peaks and feel the extraordinary achievement.
+    </string>
+    <string name="tn50_a3">
+        Explore Lorentz\'s cultural richness and witness the unique traditions that adorn this
+        region.
+    </string>
+    <string name="tn50_kh1">
+        Lucky to see the rare black bear while exploring Lorentz National Park.
+    </string>
+    <string name="tn50_kh2">
+        Witness the beauty of hummingbirds in their natural habitat in Lorentz National Park.
+    </string>
+    <string name="tn50_kh3">
+        The rare discovery of Goura Scheepmakeri, one of the most beautiful birds in the world,
+        in Lorentz.
+    </string>
+    <string name="tn50_kh4">
+        Various duck species adorn the rivers and lakes in Lorentz National Park.
+    </string>
+    <string name="tn51_a1">
+        Thrilling biking adventure in the wilderness of Wasur.
+    </string>
+    <string name="tn51_a2">
+        Witness the beauty of traditional ceremonies and the rich culture of the Marori tribe.
+    </string>
+    <string name="tn51_a3">
+        Engage in a captivating cultural experience with the \'men-gey\' tradition of the Marori
+        tribe in Wasur.
+    </string>
+    <string name="tn51_kh1">
+        The beauty of colorful birds of paradise in the wild life of Wasur National Park.
+    </string>
+    <string name="tn51_kh2">
+        Cheerful and colorful cockatoos are one of the charms of Wasur National Park.
+    </string>
+    <string name="tn51_kh3">
+        The cassowary, a unique bird that enriches the biodiversity of Wasur with its majestic
+        presence.
+    </string>
+    <string name="tn52_a1">
+        Enjoy an exciting adventure by cruising the river in Zamrud National Park.
+    </string>
+    <string name="tn52_a2">
+        Experience a fast journey with a speedboat in Zamrud National Park.
+    </string>
+    <string name="tn52_a3">
+        Feel the river adventure with an entertaining speedboat ride in the midst of the Zamrud
+        peat swamp forest.
+    </string>
+    <string name="tn52_kh1">
+        Witness the life of siamangs, melodious creatures in Zamrud National Park.
+    </string>
+    <string name="tn52_kh2">
+        Explore diversity by encountering the rare pitcher plants.
+    </string>
+    <string name="tn52_kh3">
+        See a variety of bird species, including the White Crested Laughingthrush, in the wilds
+        of Zamrud.
+    </string>
+    <string name="tn53_a1">
+        Enjoy a challenging hiking adventure in Gandang Dwata National Park.
+    </string>
+    <string name="tn53_a2">
+        Discover beautiful moments and capture the natural beauty in Gandang Dwata.
+    </string>
+    <string name="tn53_a3">
+        Observe the enchanting diversity of wild birds in Gandang Dwata National Park.
+    </string>
+    <string name="tn53_kh1">
+        Discover various creatures among the rich environment of Gandang Dwata.
+    </string>
+    <string name="tn53_kh2">
+        Witness the unexpected diversity of mushrooms in Gandang Dwata.
+    </string>
+    <string name="tn53_kh3">
+        Walk beneath the mysterious lichen forest in Gandang Dwata.
+    </string>
+    <string name="tn53_kh4">
+        Explore the wonders of rare and unique plants in Gandang Dwata.
+    </string>
+    <string name="tn54_a1">
+        Witness a variety of bird species living in Mount Maras.
+    </string>
+    <string name="tn54_a2">
+        Adventure along a beautiful flowing river amidst Mount Maras.
+    </string>
+    <string name="tn54_a3">
+        Marvel at the stunning view from Bukit Nenek, one of the natural attractions of Mount Maras.
+    </string>
+    <string name="tn54_kh1">
+        Encounter amazing wildlife, including macaques, in Mount Maras.
+    </string>
+    <string name="tn54_kh2">
+        Sumatran elephants, majestic creatures guarding the biodiversity of Mount Maras.
+    </string>
+    <string name="tn54_kh3">
+        Witness the fauna diversity of Mount Maras, including the elegant sambar deer.
+    </string>
+    <string name="tn54_kh4">
+        Unforgettable natural beauty with the rare Rafflesia flowers in Mount Maras.
+    </string>
+    <string name="ganti_bahasa">Language changed to English</string>
+    <string name="klik_disini">Click here</string>
+    <string name="info_lanjut">For more information</string>
+    <string name="download_app">Download Indonesia\'s FOLU Net Sink 2030 Application</string>
+    <string name="pindai_target">Scan Target to show AR</string>
+</resources>
